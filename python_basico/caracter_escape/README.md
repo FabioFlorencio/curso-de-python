@@ -9,6 +9,8 @@ Os caracteres de escape são usados em Python para representar caracteres especi
 - `\\`: representa uma barra invertida.
 - `\'`: representa uma aspa simples.
 - `\"`: representa uma aspa dupla.
+- `\v`: representa uma tabulação vertical
+- `\t`: representa uma tabulação horizontal.
 
 ## Exemplo de Uso:
 
