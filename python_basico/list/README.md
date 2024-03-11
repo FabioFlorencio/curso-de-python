@@ -18,7 +18,7 @@ Aqui estão alguns métodos comuns que podem ser usados para manipular listas em
 
 Vamos ver como esses métodos funcionam em ação:
 
-### Exemplo 1: Utilizando `append()`
+### Exemplo 1: Utilizando `append()` 📝
 
 ```python
 frutas = ["maçã", "banana", "laranja"]
@@ -26,7 +26,7 @@ frutas.append("morango")
 print(frutas)  # Saída: ["maçã", "banana", "laranja", "morango"]
 ```
 
-### Exemplo 2: Utilizando `insert()`
+### Exemplo 2: Utilizando `insert()` 🔍
 
 ```python
 numeros = [1, 2, 3, 5]
@@ -34,7 +34,7 @@ numeros.insert(3, 4)
 print(numeros)  # Saída: [1, 2, 3, 4, 5]
 ```
 
-### Exemplo 3: Utilizando `pop()`
+### Exemplo 3: Utilizando `pop()`🎈
 
 ```python
 letras = ['a', 'b', 'c', 'd']
@@ -43,7 +43,7 @@ print(letras)         # Saída: ['a', 'b', 'd']
 print(letra_removida) # Saída: 'c'
 ```
 
-### Exemplo 4: Utilizando `del`
+### Exemplo 4: Utilizando `del`🗑️
 
 ```python
 frutas = ["maçã", "banana", "laranja", "morango"]
@@ -51,7 +51,7 @@ del frutas[2]
 print(frutas)  # Saída: ["maçã", "banana", "morango"]
 ```
 
-### Exemplo 5: Utilizando `clear()`
+### Exemplo 5: Utilizando `clear()`🧹
 
 ```python
 numeros = [1, 2, 3, 4, 5]
@@ -59,7 +59,7 @@ numeros.clear()
 print(numeros)  # Saída: []
 
 ```
-### Exemplo 6: Utilizando `extend()`
+### Exemplo 6: Utilizando `extend()`🚀
 
 ``` python
 pares = [2, 4, 6]
