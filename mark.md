@@ -24,7 +24,7 @@ markmap:
   - Booleano ✔️❌
   - Typecasting 🔄
   - String 🔡
-- 📦[Variáveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/vari%C3%A1veis)
+- 📦[Variáveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
   - Variáveis
   - Snack case
   - [PE8](https://peps.python.org/pep-0008/)
