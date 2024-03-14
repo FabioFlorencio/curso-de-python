@@ -8,8 +8,8 @@ markmap:
 ## 📁Seção 3
 
 - 🔗[Concatenação](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/concatenacao)
-  - Exemplos de caracteres de Escape:
-  - Exemplo de uso
+  - Concatenação:
+  - Concatenação e Repetição com Operadores Aritméticos
 - 📝[DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
   - Comentário de linha única
   - Comentário em bloco
@@ -36,10 +36,10 @@ markmap:
   - Snack case
   - [PE8](https://peps.python.org/pep-0008/)
 - 🧮[Operadores](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores)
-  - Adição ➕
-  - Subtração ➖
-  - Multiplicação ✖️
-  - Divisão ➗
+  - Adição 
+  - Subtração 
+  - Multiplicação 
+  - Divisão 
     - Divisão_inteira
     - Divisão_casting
   - Exponenciação 

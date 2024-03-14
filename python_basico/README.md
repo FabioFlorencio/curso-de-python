@@ -3,6 +3,8 @@
 
 ## Seção 3 - aula 87 - Introdução ao empacotamento e desempacotamento
 
+- [ ] Falta o README do diretório matriz
+
 
 
 
