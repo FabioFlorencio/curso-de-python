@@ -3,7 +3,7 @@
     Aula 26 - Operadores
     
     Divisão / = sempre retorna um número de ponto flutuante
-    Divisão // = sempre retorna um númento inteiro desde que a conta permita
+    Divisão // = sempre retorna um número inteiro desde que a conta permita
 
 '''
 

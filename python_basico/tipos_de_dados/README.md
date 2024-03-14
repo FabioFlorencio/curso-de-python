@@ -1,4 +1,16 @@
-# Tipos de Dados Primitivos em Python 🐍
+# Tipos de dados em Python 🐍
+
+Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar explicitamente o tipo de dado ao criar uma variável. Alguns dos tipos de dados mais comuns em Python incluem:
+
+- `int` (números inteiros)
+- `float` (números de ponto flutuante)
+- `str` (strings)
+- `bool` (valores booleanos)
+- `list` (listas)
+- `tuple` (tuplas)
+- `dict` (dicionários)
+
+## Tipos de Dados Primitivos 🗿
 
 Python é uma linguagem de programação versátil que suporta diversos tipos de dados primitivos para armazenar informações. Vamos dar uma olhada em alguns deles:
 
@@ -31,3 +43,4 @@ Typecasting é o processo de converter um tipo de dado em outro. Em Python, voc�
 num_str = "42"
 num_int = int(num_str)  # Converte uma string para um número inteiro
 ```
+

@@ -2,3 +2,19 @@
 
 
 ## Seção 3 - aula 87 - Introdução ao empacotamento e desempacotamento
+
+
+
+## Falta o README (~~Concatenação~~ | ~~f_strings~~ | ~~format~~ | ~~Operadores~~ | ~~Variaveis~~)
+
+
+
+
+
+
+
+
+
+
+
+
