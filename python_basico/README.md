@@ -5,9 +5,6 @@
 
 
 
-## Falta o README (~~Concatenação~~ | ~~f_strings~~ | ~~format~~ | ~~Operadores~~ | ~~Variaveis~~)
-
-
 
 
 

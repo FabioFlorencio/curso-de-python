@@ -1,8 +1,5 @@
 # 📝Concatenação e Repetição com Operadores Aritméticos em Python 🐍
 
-## Introdução
-Este README oferece uma visão geral sobre a concatenação, repetição e operadores aritméticos em Python.
-
 ## Concatenação ✨
 
 A concatenação é o processo de combinar duas ou mais strings em uma única string. Em Python, isso é feito usando o operador `+`. Por exemplo:
