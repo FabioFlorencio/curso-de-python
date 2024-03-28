@@ -7,6 +7,7 @@
     del    - apaga um índice
     clear  - limpa lista
     extend - extend a lista
+    sort   - é usado para classificar os elementos de uma lista em ordem crescente ou decrescente
 
     CRUD -> Create read, update, delete
     Criar, ler, alterar, apagar,

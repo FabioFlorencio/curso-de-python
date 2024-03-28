@@ -2,7 +2,7 @@
     Aula 41 - Operador Lógico "and"
     and, or, not
     and = todas as condições precisam ser verdadeiras
-    0 0.0 '' False -> Essas comparações também são consideradas falsas
+    0 | 0.0 '' False -> Essas comparações também são consideradas falsas
 
 '''
 
@@ -29,4 +29,10 @@ print()
 # É uma forma de validar usando 'or' no input
 senha = input('Senha: ') or 'Não digitou a senha!'
 print(senha)
+
+# teste
+
+print(bool(not 0))
+print(bool(not 1))
+
 
