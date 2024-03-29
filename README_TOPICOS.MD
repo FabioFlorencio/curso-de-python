@@ -58,8 +58,17 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Operador not in
       - Operador not
     - [string_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
-    - Fatiamento de string
-  - 
+      - Fatiamento de string
+    - 🎲 [tipos_de_dados](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tipos_de_dados)
+      - Inteiro
+      - Float
+      - Booleano
+      - Typecasting
+      - String
+  - [Try_except](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/try_except)
+    - Estudos de try
+  - [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
+    - Variáveis
 
 
 
