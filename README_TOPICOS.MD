@@ -22,6 +22,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       * Exemplo de `elipses` e `pass`
       * Exemplo de `{variavel=}`
       * Exemplo de `{variavel1 + variavel2=}`
+    - [Constante]()
+      - Exemplo de boas praticas usando constante
+      - Exemplo "line continuation" quebrar uma linha de código longa em várias linhas
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -37,6 +40,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Argumento nomeado
       - Aspas Simples e Duplas
       - sep , end
+    - 🆔 [Func_id](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/func_id)
+      - Exemplos de função id
     - 📥 [Input](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/input)
       - Exemplos do uso de input
     - 🎯 [Interpolação_string](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/interpolacao_string)
@@ -50,7 +55,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Listas usando clear()
       - Listas usando extend()
       - Listas usando copy
-      - Método id()
+      - Método id() - serve para obter o endereço de memória de um objeto.
       - Método sort
       - Método sort(reverse=True)
       - Exemplos de for
@@ -84,9 +89,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.  
-    - 🔪 [string_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
+    - 🔪 [String_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
       - Fatiamento de string
-    - 🎲 [tipos_de_dados](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tipos_de_dados)
+    - 🎲 [Tipos_de_dados](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tipos_de_dados)
       - Inteiro
       - Float
       - Booleano
