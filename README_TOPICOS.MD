@@ -6,12 +6,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
 
 ## 📚 Recursos Disponíveis
 
-- **Exemplos de Código**: Explore exemplos de código Python para diferentes tópicos, desde conceitos fundamentais como variáveis e estruturas de controle até tópicos mais avançados como programação orientada a objetos e manipulação de arquivos.
+- **Exemplos de Código**: Explore exemplos de código Python para diferentes tópicos, desde conceitos fundamentais como variáveis e estruturas de controle entre outros.
 
 ### 📊 Tabela de conteúdos
 
 - 🧱 [Python básico](#python-básico)
-    - ⏪ [`Caracter_escape`](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/caracter_escape)
+    - ⏪ [Caracter_escape](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/caracter_escape)
       - Exemplos de caracteres de Escape
     - 🔗 [Concatenação](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/concatenacao)
       - Concatenação com operador +
@@ -19,7 +19,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 🚦 [Condicionais](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/condicionais)
       * Exemplos sobre if / else / elif
       * Exemplos Assignment expression `Avalia e atribui valor á variável`
-      * Exemplo de usando `elipses` e `pass`
+      * Exemplo de `elipses` e `pass`
       * Exemplo de `{variavel=}`
       * Exemplo de `{variavel1 + variavel2=}`
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
