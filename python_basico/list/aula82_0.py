@@ -14,6 +14,8 @@ print('qtd:',len(lista))
 # Limpa lista
 lista.clear()
 print('Função limpar lista:',lista)
+print(lista is None)
+print(type(lista))
 
 # print(lista)
 

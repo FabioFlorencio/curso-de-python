@@ -3,15 +3,18 @@
 
 ## Seção 3 - aula 87 - Introdução ao empacotamento e desempacotamento
 
-## Seção 3 - aula 53 - Parte 1: Variáveis, constantes e complexidade de código
+## Seção 3 - aula 66
+## Seção 3 - aula 53 ao 57
 
-- [ ] Falta o README do diretório matriz
-- [ ] Falta o README do diretório operadores relacionis
+- [x] Falta o README do diretório operadores relacionais
 - [ ] Falta o README do diretório operadores lógicos
 - [ ] Falta o README do diretório interpolação de string
 - [ ] Falta o README do diretório string fatiamento
 - [ ] Falta o README do diretório try except
 - [ ] Falta o README do diretório func_id
+- [ ] Falta o README do diretório flag
+- [ ] Falta o README do diretório obj_mutaveis
+- [ ] Falta o README do diretório while
 - [ ] Incluir no README do diretório list a explicação do método list.sort()
 
 

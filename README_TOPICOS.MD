@@ -22,7 +22,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       * Exemplo de `elipses` e `pass`
       * Exemplo de `{variavel=}`
       * Exemplo de `{variavel1 + variavel2=}`
-    - [Constante]()
+    - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" quebrar uma linha de código longa em várias linhas
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)

@@ -23,7 +23,7 @@ print('Lista sem alterração:',lista)
 
 del lista[2]
 
-print('Lista após alterração:',lista)
+print('Lista após alteração:',lista)
 
 # append -> inclui um item no final da lista
 lista.append(50)
