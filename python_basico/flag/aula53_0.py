@@ -2,6 +2,7 @@
     Aula 53 -  Flags, is, is not e None
     Flag (bandeira) - Marcar um local
     is e is not
+    
 '''
 
 condicao = True

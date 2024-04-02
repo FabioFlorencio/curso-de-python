@@ -22,9 +22,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       * Exemplo de `elipses` e `pass`
       * Exemplo de `{variavel=}`
       * Exemplo de `{variavel1 + variavel2=}`
+      * Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
-      - Exemplo "line continuation" quebrar uma linha de código longa em várias linhas
+      - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -35,11 +36,16 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Format()
       - Format() com parâmetros nomeados
       - Format() com parâmetros nomeados usando índices
+    - 🏁 [Flag]()
+      - Exemplo usando `is, is not, e None`
+    - [For]()
+      - Exemplo de for utilizando `string`
+      - Exemplo de for utilizando `range`
     - 🖨️ [Função_print](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_print)
       - Argumento não nomeado
       - Argumento nomeado
       - Aspas Simples e Duplas
-      - sep , end
+      - `sep , end`
     - 🆔 [Func_id](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/func_id)
       - Exemplos de função id
     - 📥 [Input](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/input)
