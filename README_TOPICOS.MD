@@ -36,9 +36,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Format()
       - Format() com parâmetros nomeados
       - Format() com parâmetros nomeados usando índices
-    - 🏁 [Flag]()
+    - 🏁 [Flag](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/flag)
       - Exemplo usando `is, is not, e None`
-    - [For]()
+    - 🔄 [For](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/for)
       - Exemplo de for utilizando `string`
       - Exemplo de for utilizando `range`
     - 🖨️ [Função_print](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_print)
