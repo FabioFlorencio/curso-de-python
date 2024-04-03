@@ -52,6 +52,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos do uso de input
     - 🎯 [Interpolação_string](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/interpolacao_string)
        - Exemplo para transformar decimal em hexadecimal
+       - Exemplo para usar com `string`
+       - Exemplo para usar com `decimal` e `float`
        - Exemplo de interpolação usando mais de uma variável 
     - 📦 [List](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/list)
       - Listas usando append()
@@ -67,7 +69,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos de for
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
-      - Exemplo de alinhamento central `^`
+      - Exemplo de `alinhamento central ^`
       - Exercícios com matriz
     - 🧮 [Operadores](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operadores ariméticos
@@ -107,6 +109,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - Estudos de try
   - 📦 [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
     - Variáveis
+  - [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)
+    - Exemplo usando continue
+    - Exemplo usando break
+  
 
 
 
