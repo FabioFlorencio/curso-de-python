@@ -29,6 +29,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
+    - 📦 [Empacotamento]()
+      - Exemplo de criar uma `variável de resto`
+      - Exemplo de convenção para indicar o não uso de uma variável
+      - Exemplo de `_` e `*_`
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
@@ -87,13 +91,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `<`: Menor que
         - `>=`: Maior ou igual a
         - `<=`: Menor ou igual a
-    - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌
-      - Operadores lógicos
-        - `and`: Retorna True se ambas as expressões forem verdadeiras
-        - `or`: Retorna True se pelo menos uma das expressões for verdadeira
-        - `not`: Inverte o resultado, retorna False se a expressão for verdadeira
-        - Exemplos usando `not 1`, `not 0`, `not False` e `not True`
-        - Exemplos de bool()
+    - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌      
+      - `and`: Retorna True se ambas as expressões forem verdadeiras
+      - `or`: Retorna True se pelo menos uma das expressões for verdadeira
+      - `not`: Inverte o resultado, retorna False se a expressão for verdadeira
+      - Exemplos usando `not 1`, `not 0`, `not False` e `not True`
+      - Exemplos de bool()
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.  
@@ -109,7 +112,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - Estudos de try
   - 📦 [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
     - Variáveis
-  - [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)
+  - 🔁 [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)
     - Exemplo usando continue
     - Exemplo usando break
   
