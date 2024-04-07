@@ -33,7 +33,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de criar uma `variável de resto`
       - Exemplo de convenção para indicar o não uso de uma variável
       - Exemplo de `_` e `*_`
-    - 📝 [Enumerate]()
+    - 📝 [Enumerate](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/enumerate)
       - Fala sobre o método `iter`
       - Exemplo de usar `enumerate`
       - Exemplo de usar `list(enumerate(lista))`
@@ -117,7 +117,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - String
   - [🛡️ Try_except](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/try_except)
     - Estudos de try
-  - 🔒 [Tupla]()
+  - 🔒 [Tupla](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tupla)
     - Exemplo de criação de tupla
     - Conversão de `lista para tupla`
     - Conversão de `tupla para list`
