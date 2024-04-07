@@ -29,10 +29,15 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
-    - 📦 [Empacotamento]()
+    - 📦 [Empacotamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/empacotamento_desempacotamento)
       - Exemplo de criar uma `variável de resto`
       - Exemplo de convenção para indicar o não uso de uma variável
       - Exemplo de `_` e `*_`
+    - 📝 [Enumerate]()
+      - Fala sobre o método `iter`
+      - Exemplo de usar `enumerate`
+      - Exemplo de usar `list(enumerate(lista))`
+      - Exemplo de usar `list(enumerate(lista, start=2))`
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
@@ -45,6 +50,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 🔄 [For](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/for)
       - Exemplo de for utilizando `string`
       - Exemplo de for utilizando `range`
+      - Exemplo do método `iter`
+      - Exemplo do método `next`
     - 🖨️ [Função_print](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_print)
       - Argumento não nomeado
       - Argumento nomeado
@@ -110,11 +117,16 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - String
   - [🛡️ Try_except](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/try_except)
     - Estudos de try
+  - 🔒 [Tupla]()
+    - Exemplo de criação de tupla
+    - Conversão de `lista para tupla`
+    - Conversão de `tupla para list`
   - 📦 [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
     - Variáveis
   - 🔁 [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)
     - Exemplo usando continue
     - Exemplo usando break
+    - Exemplo usando método `count`
   
 
 

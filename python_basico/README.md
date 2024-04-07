@@ -1,7 +1,7 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
 
 
-## Seção 3 - aula 87 - Introdução ao empacotamento e desempacotamento
+## Seção 3 - aula 90 -  crie uma lista de compras com listas
 
 ## Seção 3 - aula 88
 ## Seção 3 - aula 53 ao 57
@@ -17,6 +17,9 @@
 - [ ] Falta o README do diretório while
 - [ ] Falta o README do diretório for
 - [ ] Falta o README do diretório de empacotamento
+- [ ] Falta o README do diretório de tupla
+- [ ] Falta link para tupla 
+- [ ] Falta link para enumerate
 - [ ] Incluir no README do diretório list a explicação do método list.sort()
 
 

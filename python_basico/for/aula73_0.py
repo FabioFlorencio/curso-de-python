@@ -7,7 +7,7 @@
 
 
 for numero in range(10):
-    print(numero,end=" ")
+    print(numero,end=" ")    
 
 print('\n')    
 
