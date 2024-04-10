@@ -33,6 +33,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de criar uma `variável de resto`
       - Exemplo de convenção para indicar o não uso de uma variável
       - Exemplo de `_` e `*_`
+      - Exemplo de `print(*lista)` traz todos os itens da lista
+      - Exemplo de `print(*salas, sep='\n')` mosta a lista conforme estão distribuidos os itens.
     - 📝 [Enumerate](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/enumerate)
       - Fala sobre o método `iter`
       - Exemplo de `enumerate`
@@ -46,7 +48,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Format() com parâmetros nomeados
       - Format() com parâmetros nomeados usando índices
     - 🏁 [Flag](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/flag)
-      - Exemplo usando `is, is not, e None`
+      - Exemplo de uso `is, is not, e None`
     - 🔄 [For](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/for)
       - Exemplo de for utilizando `string`
       - Exemplo de for utilizando `range`
@@ -108,7 +110,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `>=`: Maior ou igual a
         - `<=`: Menor ou igual a
     - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌ 
-    - [Split_Strip_Join]()
+    - [Operacao_ternaria]()
+      - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
+    - [Split_Strip_Join](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/split)
       - Exemplo split
       - Exemplo Strip
       - Exemplo Join    

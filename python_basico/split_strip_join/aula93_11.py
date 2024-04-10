@@ -8,6 +8,8 @@
     lstrip - corta o espaço da esquerda
     join - une uma string
 
+    video (9:20 fala sobre join)
+
 '''
 
 frase = '       Olha só que    , coisa interessante'
@@ -22,14 +24,18 @@ lista_frases_alterada = []
 
 # enumerate retorna uma tupla com índice e o valor
 for i,frase in enumerate(lista_frases):
-    lista_frases_alterada.append(lista_frases[i].split())
+    lista_frases_alterada.append(lista_frases[i].strip())
+
+print(lista_frases_alterada)    
+print()
     
-print(lista_frases_alterada) 
-print
+# junta a frase    
+frases_unidas = ', '.join(lista_frases_alterada)
+print(frases_unidas) 
+print()
 
-for i,frase in enumerate(lista_frases_alterada):
-    print('O que tem dentro do array:',i,frase,'e o total de',len(lista_frases_alterada[i]),'itens.')
-
+frases_unidas = '-'.join(lista_frases_alterada)
+print(frases_unidas)
 
 
 
