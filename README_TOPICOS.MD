@@ -110,12 +110,6 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `>=`: Maior ou igual a
         - `<=`: Menor ou igual a
     - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌ 
-    - [Operacao_ternaria]()
-      - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
-    - [Split_Strip_Join](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/split)
-      - Exemplo split
-      - Exemplo Strip
-      - Exemplo Join    
       - `and`: Retorna True se ambas as expressões forem verdadeiras
       - `or`: Retorna True se pelo menos uma das expressões for verdadeira
       - `not`: Inverte o resultado, retorna False se a expressão for verdadeira
@@ -123,7 +117,13 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos de bool()
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
-        - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.  
+        - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência. - 
+    - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
+      - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
+    - [Split_Strip_Join](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/split)
+      - Exemplo split
+      - Exemplo Strip
+      - Exemplo Join           
     - 🔪 [String_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
       - Fatiamento de string
     - 🎲 [Tipos_de_dados](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tipos_de_dados)
