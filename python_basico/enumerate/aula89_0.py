@@ -15,11 +15,13 @@ print(next(lista_enumerada))
 print(next(lista_enumerada))
 print(next(lista_enumerada))
 
+print(type(lista_enumerada))
+
 print()
 
-# Não funciona o for devido do uso do interator, é como se o "ponteiro permanecesse no final da lista" impedindo retomar o índice
+# Não funciona o for devido do uso do iterator, é como se o "ponteiro permanecesse no final da lista" impedindo retomar o índice
 # para contornar essa situação vai ser necessário criar um iterator por vez
-# Veja o exemplo aula89_1 para ver o exemplo de como contornar essa situação.
+# Veja o exemplo aula89_1 para ver o exemplo de como tratar essa situação.
 
 for item in lista_enumerada:
     print(next(item))

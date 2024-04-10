@@ -5,12 +5,20 @@
 
 '''
 
-texto = 'Python'
+texto = 'Python lindo'
 
 
 for letra in texto:
     print(letra)
     print(type(letra))
+
+print()
+
+for letra in enumerate(texto):
+    print(letra)
+
+
+print(type(letra))    
 
 
 

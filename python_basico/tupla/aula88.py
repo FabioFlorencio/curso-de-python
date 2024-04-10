@@ -28,6 +28,9 @@ print('Transformando list em tupla',tuple(nomes))
 print('Transformando list em tupla',tuple(carros))
 
 
+for nome in nomes:
+    print(nome)
+
 
 
 

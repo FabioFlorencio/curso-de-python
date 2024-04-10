@@ -2,6 +2,7 @@
     Aula 89 - enumerate para enumerar valores de iteráveis (pegar índices)
     enumerate utiliza o método iterator
     enumerate -> cria indice para lista
+    Enumerate retorna uma tupla "Desempacota a lista"
 
 '''
 

@@ -17,12 +17,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Concatenação com operador +
       - Concatenação com a utilização de repetição
     - 🚦 [Condicionais](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/condicionais)
-      * Exemplos sobre if / else / elif
-      * Exemplos Assignment expression `Avalia e atribui valor á variável`
-      * Exemplo de `elipses` e `pass`
-      * Exemplo de `{variavel=}`
-      * Exemplo de `{variavel1 + variavel2=}`
-      * Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
+      - Exemplos sobre if / else / elif
+      - Exemplos Assignment expression `Avalia e atribui valor á variável`
+      - Exemplo de `elipses` e `pass`
+      - Exemplo de `{variavel=}`
+      - Exemplo de `{variavel1 + variavel2=}`
+      - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
@@ -35,9 +35,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de `_` e `*_`
     - 📝 [Enumerate](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/enumerate)
       - Fala sobre o método `iter`
-      - Exemplo de usar `enumerate`
-      - Exemplo de usar `list(enumerate(lista))`
-      - Exemplo de usar `list(enumerate(lista, start=2))`
+      - Exemplo de `enumerate`
+      - Exemplo de `list(enumerate(lista))`
+      - Exemplo de `list(enumerate(lista, start=2))`
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
@@ -52,6 +52,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de for utilizando `range`
       - Exemplo do método `iter`
       - Exemplo do método `next`
+    - 📟 [Funcao_numeros]()
+      - Exemplo de `função round`
+      - Exemplo de `decimal.Decimal` 
+      - Exemlo de `max()`
+      - Exemlo de `min()`
+      - Exemlo de `sum()`
     - 🖨️ [Função_print](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_print)
       - Argumento não nomeado
       - Argumento nomeado
@@ -78,6 +84,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Método sort
       - Método sort(reverse=True)
       - Exemplos de for
+      - Exemlo de `max()`
+      - Exemlo de `min()`
+      - Exemlo de `sum()`
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
       - Exemplo de `alinhamento central ^`
@@ -98,7 +107,11 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `<`: Menor que
         - `>=`: Maior ou igual a
         - `<=`: Menor ou igual a
-    - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌      
+    - ✔️ [Operadores_logicos](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operadores_logicos) ❌ 
+    - [Split_Strip_Join]()
+      - Exemplo split
+      - Exemplo Strip
+      - Exemplo Join    
       - `and`: Retorna True se ambas as expressões forem verdadeiras
       - `or`: Retorna True se pelo menos uma das expressões for verdadeira
       - `not`: Inverte o resultado, retorna False se a expressão for verdadeira
