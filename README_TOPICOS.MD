@@ -49,11 +49,17 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Format() com parâmetros nomeados usando índices
     - 🏁 [Flag](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/flag)
       - Exemplo de uso `is, is not, e None`
+      - Exemplo de uso com `função parâmetro None`
     - 🔄 [For](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/for)
       - Exemplo de for utilizando `string`
       - Exemplo de for utilizando `range`
       - Exemplo do método `iter`
       - Exemplo do método `next`
+    - 🛠️ [Funcao]()
+      - Função nomeada(Tem nome com sina de igual)
+      - Função não nomeada(Recebe apenas o argumento)
+      - Exemplo de corrigir uma função que não foi informado o parâmetro (`def saudacao(nome='Sem nome'):`).
+      - Exemplo de mandar parâmetro fora de ordem.
     - 📟 [Funcao_numeros]()
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 
