@@ -2,7 +2,7 @@
 
 
 ## Seção 4 - aula 107 Valores padrão para parâmetros em funções Python + 
-## Seção 4 - aula 109  Introdução ao tipo de dados dict - Dicionários em Python
+## Seção 4 - aula 119  Introdução ao tipo de dados dict - Dicionários em Python
 NoneType e None
 
 ## Seção 3 - aula 88

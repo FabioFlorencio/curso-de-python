@@ -26,7 +26,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
-    - 📖 [Dicionário]()
+    - 📖 [Dicionário](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/dicionarios)
       - Exemplo de uso `dict` | sobrescreve um dado
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
@@ -62,7 +62,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Função não nomeada(Recebe apenas o argumento)
       - Exemplo de corrigir uma função que não foi informado o parâmetro (`def saudacao(nome='Sem nome'):`).
       - Exemplo de mandar parâmetro fora de ordem.
-    - 📟 [Funcao_numeros]()
+    - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 
       - Exemlo de `max()`
