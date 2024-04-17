@@ -26,6 +26,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
+    - 📖 [Dicionário]()
+      - Exemplo de uso `dict` | sobrescreve um dado
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
