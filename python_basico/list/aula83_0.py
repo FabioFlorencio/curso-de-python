@@ -14,3 +14,6 @@ lista_a.extend(lista_b)
 lista_c.append('Fabio')
 
 print(lista_c)
+print(id(lista_a))
+print(id(lista_b))
+print(id(lista_c))

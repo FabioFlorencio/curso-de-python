@@ -16,7 +16,8 @@ vendedores.append(novas_contratacoes)
 print(vendedores)
 
 
-# dessa forma separar o nome letra por letra
+# dessa forma separa o nome letra por letra
 vendedores.extend('Mendes')
 
 print(vendedores)
+print(len(vendedores))

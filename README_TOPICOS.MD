@@ -34,7 +34,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de convenção para indicar o não uso de uma variável
       - Exemplo de `_` e `*_`
       - Exemplo de `print(*lista)` traz todos os itens da lista
-      - Exemplo de `print(*salas, sep='\n')` mosta a lista conforme estão distribuidos os itens.
+      - Exemplo de `print(*salas, sep='\n')` mostra a lista conforme estão distribuidos os itens.
     - 📝 [Enumerate](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/enumerate)
       - Fala sobre o método `iter`
       - Exemplo de `enumerate`
@@ -98,6 +98,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
       - Exemplo de `alinhamento central ^`
+      - Quantidade de arrays dentro da matriz usando o método`shape[]`:
       - Exercícios com matriz
     - 🧮 [Operadores](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operadores ariméticos
