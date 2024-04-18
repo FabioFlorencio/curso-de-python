@@ -32,7 +32,7 @@ def calc_sentimentos(comentarios):
 
     for comentario in comentarios:
         if comentario['Sentimento'] == 'Positivo':
-            cont_sent_neg+= comentario[comentario]
+            cont_sent_neg+= 1
         else:
             cont_sent_pos+= 1 
 
@@ -48,7 +48,7 @@ def comentarios_pos(comentarios):
 
     for comentario in comentarios:
         if comentario['Sentimento'] == 'Positivo':
-            guarda_sent_pos+= f'{comentario['Comentário']}'
+            print(f'{comentario['Comentário']}')
     return guarda_sent_pos
 
 
@@ -58,8 +58,8 @@ print(tot_sentimento_positivo)
 
 
 for comentario in comentarios:
-    comentario["Sentimento_valor"] = 1 if comentario["Sentimento"] == "positivo" else 0
+    comentario["Sentimento_valor"] = 1 if comentario["Sentimento"] == "Positivo" else 0
 
 
 print(comentarios)    
-print(comentarios_pos())
+print(comentarios_pos(comentarios))
