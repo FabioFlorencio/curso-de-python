@@ -27,7 +27,13 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - 📖 [Dicionário](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/dicionarios)
+      - Exemplo de criar um `dicionário vazio`
       - Exemplo de uso `dict` | sobrescreve um dado
+      - Exemplo de incluir uma `nova chave`
+      - Exemplo de apagar uma chave `del `
+      - Exemplo de uso do método `get` | verifica se um dado existe no dicionário
+      - Exemplo de uso do `__len__` | para saber a quantidade chaves no dicionário
+      - Exemplo de uso de `keys` | Retorna somente as chaves do dicionário
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -57,11 +63,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de for utilizando `range`
       - Exemplo do método `iter`
       - Exemplo do método `next`
-    - 🛠️ [Funcao]()
-      - Função nomeada(Tem nome com sina de igual)
+    - 🛠️ [Funcao](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao)
+      - Função nomeada(Tem nome com sinal de igual)
       - Função não nomeada(Recebe apenas o argumento)
       - Exemplo de corrigir uma função que não foi informado o parâmetro (`def saudacao(nome='Sem nome'):`).
       - Exemplo de mandar parâmetro fora de ordem.
+      - Exemplo de `retorno de dois parâmetros` usando dicionário`
     - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 

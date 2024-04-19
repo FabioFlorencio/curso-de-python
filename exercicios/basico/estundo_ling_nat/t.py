@@ -14,8 +14,6 @@ Adicione uma chave em cada dicionário chamado sentimento_valor que conterá 0 s
 #! Roberto     Eureka, consegui resolver este problema       Positivo 
 
 '''
-
-import numpy as np
                                                                                           
 comentarios = [
                         {'Autor':'João','Comentário':'Estou tão feliz hoje!','Sentimento':'Positivo'},
@@ -44,17 +42,20 @@ tot_sent_neg, tot_sent_pos = calc_sentimentos(comentarios)
 
 
 def comentarios_pos(comentarios):
-    guarda_sent_pos = ""
+    guarda_sent_pos = []
 
     for comentario in comentarios:
-        if comentario['Sentimento'] == 'Positivo':
-            print(f'{comentario['Comentário']}')
+        if comentario['Sentimento'] == 'Positivo':            
+            guarda_sent_pos.append(comentario['Comentário'])
     return guarda_sent_pos
 
 
 tot_sentimento_positivo = comentarios_pos(comentarios)
 
-print(tot_sentimento_positivo)
+print('Sentimentos positivos:',tot_sentimento_positivo)
+print(f'Total de sentimento positivo:{tot_sent_pos}')
+print(f'Total de sentimento negativo:{tot_sent_neg}')
+print()
 
 
 for comentario in comentarios:
@@ -62,4 +63,4 @@ for comentario in comentarios:
 
 
 print(comentarios)    
-print(comentarios_pos(comentarios))
+print('Comentários positivos:',comentarios_pos(comentarios))

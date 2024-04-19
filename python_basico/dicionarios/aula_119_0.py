@@ -1,5 +1,5 @@
 '''
-    Dicionários em python (tipo dict)
+    aula 119 - Dicionários em python (tipo dict)
     Dicionários são estruturas de dados do tipo
     par de "chave" e "valor"
     Chaves podem se consideradas como o "índice"
