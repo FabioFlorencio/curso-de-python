@@ -57,7 +57,7 @@ print(f'Total de sentimento positivo:{tot_sent_pos}')
 print(f'Total de sentimento negativo:{tot_sent_neg}')
 print()
 
-
+# Dessa forma atribui mais uma chave para o dicionário
 for comentario in comentarios:
     comentario["Sentimento_valor"] = 1 if comentario["Sentimento"] == "Positivo" else 0
 

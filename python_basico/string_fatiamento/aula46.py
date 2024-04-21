@@ -15,7 +15,10 @@
 
 variavel = 'Olá_mundo'
 print(variavel)
+
+# Nesse exemplo o índice começa na posição zero e vai até o índice 4 , mas não pega o índice 4
 print(f'fatia palavra do índice 0 ao 4, mas não inclui a posição 4:  {variavel[0:4]}')  
+
 print(f'fatia palavra do índice -9 ao -6, mas não inclui a posição -6:  {variavel[-9:-6]}') 
 print(f'Nesse exemplo não é necessário colocar índice\n{variavel[:5]}')
 print(f'\nExemplo usando índice negativo:{variavel[-8:-2]}')

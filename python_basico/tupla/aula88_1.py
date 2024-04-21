@@ -9,7 +9,10 @@
 
 '''
 
+# exempo de criação de tupla
 nomes = 'Fábio', 'Francisca', 'Vitória'
+
+print(type(nomes))
 
 print(nomes[1])
 print(nomes)

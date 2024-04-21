@@ -9,6 +9,7 @@ frase = 'Olha só que, coisa interessante!'
 print(len(frase))
 
 print(type(frase))
+# Quando não passa parâmetro, corta todo o toda vez que encontra um espaço
 lista_palavras = frase.split()
 
 print('Corta sempre o texto toda vez que encontra um espaço:',lista_palavras)

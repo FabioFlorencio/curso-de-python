@@ -136,7 +136,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência. - 
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
-    - [Split_Strip_Join](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/split)
+    - [String]()
       - Exemplo split
       - Exemplo Strip
       - Exemplo Join           
@@ -154,6 +154,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - Exemplo de criação de tupla
     - Conversão de `lista para tupla`
     - Conversão de `tupla para list`
+    - Exemplo de como fazer uma `alteração de uma tupla transformando em list`
   - 📦 [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
     - Variáveis
   - 🔁 [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)
