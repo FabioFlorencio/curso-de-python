@@ -19,8 +19,10 @@ peso_vet = [65, 70, 75, 80, 60, 68, 72, 58, 90, 72, 65, 70, 55, 78, 79, 62, 85, 
 alt_vet_numpy = np.array(alt_vet)
 peso_vet_numpy = np.array(peso_vet)
 
-# calculo IMC
+# calculo IMC usa o peso de cada índice do vetor alt_vet_numpy / peso_vet de cada índice peso_vet_numpy
 calc_imc = peso_vet_numpy / (alt_vet_numpy ** 2)
+print(f'Calculo IMC{calc_imc}')
+
 
 BASE_IMC_PESO_ABAIXO = 18.5
 BASE_IMC_PESO_NORMAL = 24.9
