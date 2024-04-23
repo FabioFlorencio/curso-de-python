@@ -12,17 +12,10 @@ chave = 'nome'
 pessoa[chave] = 'Fábio'
 pessoa['sobrenome'] = 'Florêncio'
 
+print(pessoa[chave])
 print(pessoa)
 
-# apagar uma chave
+# apaga a chave juntamente com o valor
 del pessoa['sobrenome']
-
-# verifica se tem o dados 'sobrenome' caso não tenha retorna None
-# print(pessoa.get('sobrenome'))
-
-if pessoa.get('sobrenome') is None:
-    print('Não exite')
-else:
-    print(pessoa['sobrenome'])    
 
 print(pessoa)

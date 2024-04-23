@@ -30,12 +30,14 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de criar um `dicionário vazio`
       - Exemplo de uso `dict` | sobrescreve um dado
       - Exemplo de incluir uma `nova chave`
-      - Exemplo de apagar uma chave `del `
+      - Exemplo de apagar uma chave e o valor `del `
       - Exemplo de uso do método `get` | verifica se um dado existe no dicionário
       - Exemplo de uso do `__len__` | para saber a quantidade chaves no dicionário
       - Exemplo de uso de `keys` | Retorna somente as chaves do dicionário
       - Exemplo de uso de `values` | Retorna somente os valores do dicionário
-      - Exemplo de uso de `items` | Retorna os valores do dicionário
+      - Exemplo de uso de `items` | Retorna a chave e o valor do dicionário
+      - Exemplo de uso de `setdefault` | Verifica se tem uma chave especifica
+      - Exemplo de transformar uma `list em dict`
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -136,7 +138,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.
-    - [operacoes_matematicas]()
+    - [operacoes_matematicas](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operacoes_matematicas)
         - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
