@@ -13,3 +13,8 @@ salas = [
 
 print(salas[0][1])
 print(salas[2][2])
+print()
+
+salas[0][1] = 'tosco'
+
+print(salas)

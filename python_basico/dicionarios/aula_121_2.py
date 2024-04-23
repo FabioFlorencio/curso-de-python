@@ -21,4 +21,28 @@ pessoa = {
 }
 
 # Retorna somente as chaves do dicionário
-print(pessoa.keys())
+print('Retorna somente as chaves do dicionário:',pessoa.keys())
+print('Retorna somente os valores do dicionário',pessoa.values())
+print('Retorna somente os itens do dicionário',pessoa.items())
+
+# transforma list usando o métod items()
+teste = list(pessoa.items())
+
+print(type(teste))
+print('Transforma em list, mas os seus elementos são tuplas: ',teste)
+
+
+print(teste)
+
+
+for chave in pessoa.keys():
+    print(f'Chave:',chave)
+
+print()
+
+for valor in pessoa.values():
+    print(f'Valor:',valor)
+   
+    
+
+    

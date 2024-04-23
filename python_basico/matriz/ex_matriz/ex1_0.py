@@ -6,6 +6,7 @@
     a) Soma de todos os valores pares digitados.
     b) Soma dos valores da terceira coluna.
     c) O maior valor da segunda linha.
+    
 '''    
 matriz = [[0,0,0],[0,0,0],[0,0,0]]
 

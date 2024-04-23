@@ -34,6 +34,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de uso do método `get` | verifica se um dado existe no dicionário
       - Exemplo de uso do `__len__` | para saber a quantidade chaves no dicionário
       - Exemplo de uso de `keys` | Retorna somente as chaves do dicionário
+      - Exemplo de uso de `values` | Retorna somente os valores do dicionário
+      - Exemplo de uso de `items` | Retorna os valores do dicionário
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -133,7 +135,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos de bool()
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
-        - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência. - 
+        - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.
+    - [operacoes_matematicas]()
+        - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
     - [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
@@ -142,6 +146,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo Join           
     - 🔪 [String_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
       - Fatiamento de string
+      - Fatiamento de string usando `tupla`
     - 🎲 [Tipos_de_dados](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tipos_de_dados)
       - Inteiro
       - Float
@@ -155,6 +160,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - Conversão de `lista para tupla`
     - Conversão de `tupla para list`
     - Exemplo de como fazer uma `alteração de uma tupla transformando em list`
+    - Exemplo de `tupla junto com list`
+    - Exemplo de `contar caracter de um item de uma linha\coluna`
+    - Exemplo de `imprimir os itens de uma linha de única vez`
   - 📦 [Variaveis](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/variaveis)
     - Variáveis
   - 🔁 [While](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/while)

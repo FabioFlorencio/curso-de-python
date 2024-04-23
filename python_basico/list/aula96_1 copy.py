@@ -6,6 +6,8 @@
 letras = 'ABCD'
 lista = ['Maria','Helena', 1, 2, 3,'Eduarda','fim da lista']
 tupla = 'Python', 'è', 'legal'
+
+# matriz
 salas = [
     ['Maria', 'Helena'],
     ['Elaine'],
@@ -20,6 +22,10 @@ print(*tupla)
 print(*salas)
 print('Mosta a lista conforme estão distribuidos os itens.')
 print(*salas, sep='\n')
+
+print()
+
+print(type(salas))
 
 
 
