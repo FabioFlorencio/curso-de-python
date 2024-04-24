@@ -38,6 +38,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de uso de `items` | Retorna a chave e o valor do dicionário
       - Exemplo de uso de `setdefault` | Verifica se tem uma chave especifica
       - Exemplo de transformar uma `list em dict`
+      - Exemplo de `dicionário com lista` 
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
