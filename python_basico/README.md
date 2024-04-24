@@ -2,7 +2,7 @@
 
 
 ## Seção 4 - aula 107 - Valores padrão para parâmetros em funções Python + 
-## Seção 4 - aula 122 - Shallow Copy vs Deep Copy em dados mutáveis Python
+## Seção 4 - aula 123 - (Parte 2) Métodos úteis nos dicionários Python (dict) 
 
 ## Seção 3 - aula 88
 ## Seção 3 - aula 53 ao 57

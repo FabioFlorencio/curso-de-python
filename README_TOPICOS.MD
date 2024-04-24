@@ -37,8 +37,12 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de uso de `values` | Retorna somente os valores do dicionário
       - Exemplo de uso de `items` | Retorna a chave e o valor do dicionário
       - Exemplo de uso de `setdefault` | Verifica se tem uma chave especifica
+      - Exemplo de uso de `update` | Atualiza um valor da chave ou cria nova chave 
       - Exemplo de transformar uma `list em dict`
+      - Exemplo de transformar uma `tuple em dict`
+      - Exemplo de transformar uma `matriz em dict`
       - Exemplo de `dicionário com lista` 
+      - Exemplo de `dicionário com lista` | como alterar valor da chave     
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -46,7 +50,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de criar uma `variável de resto`
       - Exemplo de convenção para indicar o não uso de uma variável
       - Exemplo de `_` e `*_`
-      - Exemplo de `print(*lista)` traz todos os itens da lista
+      - Exemplo de `print(*lista)` | traz todos os itens da lista
       - Exemplo de `print(*salas, sep='\n')` mostra a lista conforme estão distribuidos os itens.
     - 📝 [Enumerate](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/enumerate)
       - Fala sobre o método `iter`
@@ -139,7 +143,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - 🤝 Operadores de associação 
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.
-    - [operacoes_matematicas](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operacoes_matematicas)
+    - [Operacoes_matematicas](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operacoes_matematicas)
         - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`

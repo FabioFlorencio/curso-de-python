@@ -36,7 +36,7 @@ pessoa = {
 
 print(pessoa)
 
-# ! dict sobrescreve, mas não permiti imprimir o restante dos dados. Faça o este
+# ! dict sobrescreve, mas não permiti imprimir o restante dos dados. Faça o teste
 # pessoa = dict(nome='Jones', sobrenome= 'Mendonça')
 
 # acessa

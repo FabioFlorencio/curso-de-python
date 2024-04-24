@@ -1,8 +1,3 @@
-'''
-    Manipulando chaves e valores em dicionários em Python
-
-'''
-
 pessoa = {
     'nome': 'Fábio',
     'sobrenome': 'Florêncio',
@@ -20,11 +15,13 @@ pessoa['Observação'] = ''
 print(pessoa)
 print()
 
-# Modificando a rua do primeiro endereço
-pessoa['endereços'][0]['rua'] = 'TI'
-pessoa['endereços'][0]['número'] = 222
+# Mudando a chave 'rua' para 'logradouro' no primeiro endereço
+endereco = pessoa['endereços'][0]
+endereco['logradouro'] = endereco.pop('rua')
 
+print(pessoa)
+print()
 
-pessoa['endereços'][1]['número'] = 333
+pessoa['endereços'][0]['logradouro'] = 'TI'
 
 print(pessoa)
