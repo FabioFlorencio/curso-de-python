@@ -77,7 +77,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Função não nomeada(Recebe apenas o argumento)
       - Exemplo de corrigir uma função que não foi informado o parâmetro (`def saudacao(nome='Sem nome'):`).
       - Exemplo de mandar parâmetro fora de ordem.
-      - Exemplo de `retorno de dois parâmetros` usando dicionário`
+      - Exemplo de `retorno de dois parâmetros` usando dicionário
+      - Exemplo de uso `variável global` | Não recomendado seu uso
     - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 

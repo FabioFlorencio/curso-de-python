@@ -1,7 +1,7 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
 
 
-## Seção 4 - aula 107 - Valores padrão para parâmetros em funções Python + 
+## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
 ## Seção 4 - aula 123 - (Parte 2) Métodos úteis nos dicionários Python (dict) 
 
 ## Seção 3 - aula 88
