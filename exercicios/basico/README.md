@@ -40,6 +40,6 @@ pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um
   - o salário líquido.
   - calcule os descontos e o salário líquido, conforme a tabela abaixo
     - Exercício foi usado interpolação de `float` e `caracter escape` 
-  - 1️⃣6️⃣16.Faça um programa para uma loja de tintas. O programa deverá pedir o
+- 1️⃣6️⃣16.Faça um programa para uma loja de tintas. O programa deverá pedir o
 tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
     - Exercício foi usado `Math.ceil`

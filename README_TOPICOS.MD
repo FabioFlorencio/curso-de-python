@@ -79,6 +79,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de mandar parâmetro fora de ordem.
       - Exemplo de `retorno de dois parâmetros` usando dicionário
       - Exemplo de uso `variável global` | Não recomendado seu uso
+      - Exemplo de uso `*args` | args é uma convenção comum para se referir a uma sequência de argumentos
+      - Exemplo de uso `função que retorna outra função`
     - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 

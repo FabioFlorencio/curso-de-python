@@ -13,13 +13,29 @@ salas = [
 ]
 
 
+
+
 # desempacotamento em chamadas
+# desempacotamento vai retirar as vírgulas e deixar em uma linha
 
 print(*lista)
 print(*tupla)
 print(*salas)
+print()
 print('Mosta a lista conforme está distribuidos os itens.')
 print(*salas, sep='\n')
+print()
+
+def faca(*args):
+    return args
+
+teste = faca(*lista)
+
+
+
+
+
+
 
 
 
