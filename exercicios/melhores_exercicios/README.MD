@@ -1,12 +1,10 @@
 # 🧠 Exercícios de Python 🐍
 
-## Exercício retirado da 🏘️[comunidade python Brasil](https://wiki.python.org.br/EstruturaDeDecisao)
+## Exercício retirado da 🏘️[comunidade python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 
 ### 🚦 Lista de Estrutura de decisão
 
-- 1️⃣ Faça um Programa que peça dois números e imprima o maior deles.
-- 2️⃣ Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
-- 3️⃣ Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+
 - 4️⃣ Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
   - Nesse exemplo foi usado o método `casefold` | não diferencia entre maiúsculas e minúsculas.
 - 5️⃣ Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média    alcançada por aluno e apresentar:
@@ -19,12 +17,3 @@
 - 7️⃣ Faça um Programa que leia três números e mostre o maior e o menor deles.
   - Nesse exemplo foi usado o `float('-inf') # Inicialize com o menor valor possível`
   - Nesse exemplo foi usado o `max() e min()` | Retorna o maior e o menor valor
-- 8️⃣ Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
-- 9️⃣ Faça um Programa que leia três números e mostre-os em ordem decrescente.
-- 🔟 
-- 1️⃣1️⃣ 
-- 1️⃣2️⃣
-- 1️⃣3️⃣ 
-- 1️⃣4️⃣ 
-- 1️⃣5️⃣  
-- 1️⃣6️⃣
