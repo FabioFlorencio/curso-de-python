@@ -21,8 +21,18 @@
   - Nesse exemplo foi usado o `max() e min()` | Retorna o maior e o menor valor
 - 8️⃣ Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 - 9️⃣ Faça um Programa que leia três números e mostre-os em ordem decrescente.
-- 🔟 
-- 1️⃣1️⃣ 
+- 🔟 Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+- 1️⃣1️⃣ As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
+  - Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
+- Salários até R$ 280,00 (incluindo) : aumento de 20%
+- Salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+- Salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+- Salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
+- O salário antes do reajuste;
+- O percentual de aumento aplicado;
+- O valor do aumento;
+- O novo salário, após o aumento.
+-  Nesse exemplo foi usado `desempacotamento em chamada de função` e `função format`
 - 1️⃣2️⃣
 - 1️⃣3️⃣ 
 - 1️⃣4️⃣ 

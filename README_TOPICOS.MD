@@ -147,7 +147,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
         - `in`: é utilizado para verificar se um elemento está presente em uma sequência.
         - `not in`:é utilizado para verificar se um elemento não está presente em uma sequência.
     - [Operacoes_matematicas](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operacoes_matematicas)
-        - Exemplo de `sum` com matriz
+       - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
     - [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
