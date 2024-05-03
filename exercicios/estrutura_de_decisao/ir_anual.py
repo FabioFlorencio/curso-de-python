@@ -43,7 +43,10 @@ def calcular_ir(base_calc):
     return deducao, aliq_p_calc 
 
 
-base_calc = 21453.23
-result_deducao,aliq_p_calc = calcular_ir(base_calc)         
+base_calc =  53565.73
+result_deducao = calcular_ir(base_calc)
+msg = 'Dedução de R${:.2f} com base da aliquota {:.1f}' 
 
-print('Dedução de R$%.2f com base da aliquota %.1f%%' %(result_deducao,aliq_p_calc))
+print(msg.format(*result_deducao))
+
+#print('Dedução de R$%.2f com base da aliquota %.1f%%' %(result_deducao,aliq_p_calc))

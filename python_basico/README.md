@@ -2,8 +2,7 @@
 
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
-## Seção 4 - aula 123 - (Parte 2) Métodos úteis nos dicionários Python (dict) 
-
+## Seção 4 - aula 131. Operadores importantes para o tipo set (conjuntos)
 ## Seção 3 - aula 88
 ## Seção 3 - aula 53 ao 57
 
