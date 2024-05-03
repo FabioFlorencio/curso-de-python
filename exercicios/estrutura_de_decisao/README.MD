@@ -40,14 +40,14 @@ Desconto do IR:
   - Salário Bruto até 2500 (inclusive) - desconto de 10%
   - Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
   
-  - | Salário Bruto: (5 * 220)|   R$ 1100,00     |
-    |-------------------------|------------------|
-    |(-) IR (5%)              |     R$ 55,00     |
-    |(-) INSS (10%)           |    R$ 110,00     |
-    |FGTS (11%)               |    R$ 121,00     |
-    |Total de descontos       |    R$ 165,00     |
-    |Salário Liquido          |    R$ 121,00     |
-    |--------------------------------------------| 
+  - | Salário Bruto: (5 * 220)  |   R$ 1100,00      |
+    |:-------------------------:|:------------------|
+    |(-) IR (5%)                |    R$ 55,00       |
+    |(-) INSS (10%)             |    R$ 110,00      |
+    |FGTS (11%)                 |    R$ 121,00      |
+    |Total de descontos         |    R$ 165,00      |
+    |Salário Liquido            |    R$ 121,00      |
+    |---------------------------|-------------------| 
 - 1️⃣3️⃣ Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 - 1️⃣4️⃣ Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 
