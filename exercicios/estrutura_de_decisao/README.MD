@@ -24,10 +24,15 @@
 - 🔟 Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 - 1️⃣1️⃣ As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
   - Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
-  - Salários até R$ 280,00 (incluindo) : aumento de 20%
-  - Salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
-  - Salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
-  - Salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
+    | Salários                                | aumento de 20% | 
+    |:----------------------------------------|----------------|
+    | Salários até R$ 280,00                  | aumento de 20% |   
+    | Salários entre R$ 280,00 e R$ 700,00    | aumento de 15% |
+    | Salários entre R$ 280,00 e R$ 700,00    | aumento de 15% |
+    | Salários entre R$ 700,00 e R$ 1500,00   | aumento de 10% |
+    | Salários de R$ 1500,00 em diante        | aumento de 5%  |
+
+  - Após o aumento ser realizado, informe na tela:
   - O salário antes do reajuste;
   - O percentual de aumento aplicado;
   - O valor do aumento;
@@ -46,28 +51,28 @@ Desconto do IR:
     |(-) INSS (10%)             |    R$ 110,00      |
     |FGTS (11%)                 |    R$ 121,00      |
     |Total de descontos         |    R$ 165,00      |
-    |Salário Liquido            |    R$ 121,00      |
+    |Salário Liquido            |    R$ 935,00      |
   
 - 1️⃣3️⃣ Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 - 1️⃣4️⃣ Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 
   
-  | 📊 Média de aproveitamento | 📝 Conceito |
-  |----------------------------|--------------|
-  |Entre 9.0 e 10.0            |              |
-  |Entre 7.5 e 9.0             |              |
-  |Entre 6.0 e 7.5             |              |
-  |Entre 4.0 e 6.0             |              |
-  |Entre 4.0 e 0               |              |
+  | 📊 Média de aproveitamento  | 📝 Conceito  |
+  |:----------------------------|:-------------:|
+  | Entre 9.0 e 10.0            |       A       |
+  | Entre 7.5 e 9.0             |       B       |
+  | Entre 6.0 e 7.5             |       C       |
+  | Entre 4.0 e 6.0             |       D       |
+  | Entre 4.0 e 0               |       E       |
 
 - O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
    
 - 1️⃣5️⃣ Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
-Dicas:
-Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
-Triângulo Equilátero: três lados iguais;
-Triângulo Isósceles: quaisquer dois lados iguais;
-Triângulo Escaleno: três lados diferentes; 
+  - Dicas:
+  - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+  - Triângulo Equilátero: três lados iguais;
+  - Triângulo Isósceles: quaisquer dois lados iguais;
+  - Triângulo Escaleno: três lados diferentes; 
 - 1️⃣6️⃣ Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
 Se o usuário informar o valor de A igual a zero, a equação não é do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;
 Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;
@@ -84,22 +89,39 @@ A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva méd
 A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
 A mensagem "Aprovado com Distinção", se a média for igual a 10.
 - 2️⃣1️⃣ Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
-A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
-A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
-A mensagem "Aprovado com Distinção", se a média for igual a 10.
+  - A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
+  - A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
+  - A mensagem "Aprovado com Distinção", se a média for igual a 10.
 - 2️⃣2️⃣ Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 - 2️⃣3️⃣ Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
 - 2️⃣4️⃣ Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
-  - par ou ímpar;
-  - positivo ou negativo;
-  - inteiro ou decimal. 
+  
+    | Número|              | 
+    |:----------|:---------|
+    |    par    |  ímpar   |
+    | positivo  | negativo |
+    | inteiro   | decimal  |
+
 - 2️⃣5️⃣ Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
-  - "Telefonou para a vítima?"
-  - "Esteve no local do crime?"
-  - "Mora perto da vítima?"
-  - "Devia para a vítima?"
-  - "Já trabalhou com a vítima?"
-  -  O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
+  
+  |                              |
+  |------------------------------|
+  | "Telefonou para a vítima?"   |
+  | "Esteve no local do crime?"  |
+  | "Mora perto da vítima?"      |
+  | "Devia para a vítima?"       |
+  | "Já trabalhou com a vítima?" |
+
+  -  O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a:
+  -  
+  |   Questões   |   classificação   |   
+  |:------------:|:-----------------:|
+  |      2       |   Suspeita        |
+  | entre 3 e 4  |   Cúmplice        |
+  |      5       |   Assassino       |
+
+    `Caso contrário, ele será classificado como "Inocente"`
+  
 - 2️⃣6️⃣ Um posto está vendendo combustíveis com a seguinte tabela de descontos:
   - Álcool:
   - até 20 litros, desconto de 3% por litro
