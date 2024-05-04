@@ -5,24 +5,24 @@
 ### 🚦 Lista de Estrutura de decisão
 
 - `1️` - Faça um Programa que peça dois números e imprima o maior deles.
-- `2` Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
-- 3️⃣ Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
-- 4️⃣ Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+- `2` - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
+- `3` - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+- `4` - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
   - Nesse exemplo foi usado o método `casefold` | não diferencia entre maiúsculas e minúsculas.
-- 5️⃣ Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média    alcançada por aluno e apresentar:
+- `5` - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média    alcançada por aluno e apresentar:
   - A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
   - A mensagem "Reprovado", se a média for menor do que sete;
   - A mensagem "Aprovado com Distinção", se a média for igual a dez.
-- 6️⃣ Faça um Programa que leia três números e mostre o maior deles.
+- `6️` - Faça um Programa que leia três números e mostre o maior deles.
   - Nesse exemplo foi usado o `float('-inf') # Inicialize com o menor valor possível`
   - Nesse exemplo foi usado o `ternário`
-- 7️⃣ Faça um Programa que leia três números e mostre o maior e o menor deles.
+- `7️` - Faça um Programa que leia três números e mostre o maior e o menor deles.
   - Nesse exemplo foi usado o `float('-inf') # Inicialize com o menor valor possível`
   - Nesse exemplo foi usado o `max() e min()` | Retorna o maior e o menor valor
-- 8️⃣ Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
-- 9️⃣ Faça um Programa que leia três números e mostre-os em ordem decrescente.
-- 🔟 Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
-- 1️⃣1️⃣ As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
+- `8️` - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+- `9️` - Faça um Programa que leia três números e mostre-os em ordem decrescente.
+- `10` - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+- `11` - As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
   - Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
   
     | Salários                                |    Aumento     | 
@@ -39,7 +39,7 @@
   - O valor do aumento;
   - O novo salário, após o aumento.
     -  Nesse exemplo foi usado `desempacotamento em chamada de função` e `função format` 
-- 1️⃣2️⃣Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
+- `12` - Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
 Desconto do IR:
   - Salário Bruto até 900 (inclusive) - isento
   - Salário Bruto até 1500 (inclusive) - desconto de 5%
@@ -54,8 +54,8 @@ Desconto do IR:
     |Total de descontos         |    R$ 165,00      |
     |Salário Liquido            |    R$ 935,00      |
   
-- 1️⃣3️⃣ Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
-- 1️⃣4️⃣ Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+- `13` - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+- `1️⃣4️⃣` Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 
   
   | 📊 Média de aproveitamento  | 📝 Conceito  |
