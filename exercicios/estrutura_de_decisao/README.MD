@@ -55,7 +55,7 @@ Desconto do IR:
     |Salário Liquido            |    R$ 935,00      |
   
 - `13` - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
-- `1️⃣4️⃣` Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+- `1️4️` - Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 
   
   | 📊 Média de aproveitamento  | 📝 Conceito  |
@@ -68,20 +68,20 @@ Desconto do IR:
 
 - O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
    
-- 1️⃣5️⃣ Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+- `1️5️` - Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
   - Dicas:
   - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
   - Triângulo Equilátero: três lados iguais;
   - Triângulo Isósceles: quaisquer dois lados iguais;
   - Triângulo Escaleno: três lados diferentes; 
-- 1️⃣6️⃣ Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
+- `16` - Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
 Se o usuário informar o valor de A igual a zero, a equação não é do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;
 Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;
 Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;
 Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
-- 1️⃣7️⃣ Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
-- 1️⃣8️⃣ Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
-- 1️⃣9️⃣ Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
+- `1️7️` - Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
+- `1️8️` - Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
+- `1️9️` - Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
   
 `Observando os termos no plural a colocação do "e", da vírgula entre outros.`
 
@@ -103,17 +103,17 @@ Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuá
 |      10        |    21    |    11    |          
 |       1        |    7     |    16    |          
 
-- 2️⃣0️ Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
+- `2️0️` - Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
 A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
 A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
 A mensagem "Aprovado com Distinção", se a média for igual a 10.
-- 2️⃣1️⃣ Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
+- `2️1️` - Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
   - A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
   - A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
   - A mensagem "Aprovado com Distinção", se a média for igual a 10.
-- 2️⃣2️⃣ Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
-- 2️⃣3️⃣ Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
-- 2️⃣4️⃣ Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
+- `2️2️` - Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
+- `2️3️` - Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
+- `2️4️` - Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
   
     | Número|              | 
     |:----------|:---------|
@@ -121,7 +121,7 @@ A mensagem "Aprovado com Distinção", se a média for igual a 10.
     | positivo  | negativo |
     | inteiro   | decimal  |
 
-- 2️⃣5️⃣ Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. 
+- `2️5️` - Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. 
   
   |      As perguntas são:       |
   |:----------------------------:|
@@ -141,7 +141,7 @@ A mensagem "Aprovado com Distinção", se a média for igual a 10.
 
   `Caso contrário, ele será classificado como "Inocente"`
   
-- 2️⃣6️⃣ Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+- `2️6️` - Um posto está vendendo combustíveis com a seguinte tabela de descontos:
   
   |   Combustível   |    Litros       |   Desconto     |       Litros         |   Desconto     |
   |:---------------:|:---------------:|:--------------:|:--------------------:|:--------------:|
@@ -151,14 +151,14 @@ A mensagem "Aprovado com Distinção", se a média for igual a 10.
   
   - Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
   
-- 2️⃣7️⃣ Uma fruteira está vendendo frutas com a seguinte tabela de preços:
+- `2️7️` - Uma fruteira está vendendo frutas com a seguinte tabela de preços:
   
 |  Até 5 kg              | Acima de 5 kg             |  
 |-----------------------:|--------------------------:|
 |Morango R$ 2,50 por Kg  |R$ 2,20 por Kg             |
 |Maça R$ 1,80 por Kg     |R$ 1,50 por Kg             |
 
-- 2️⃣8️⃣ O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
+- `2️8️` - O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
   
 | Até 5 kg                            |       Acima de 5 kg         | 
 |------------------------------------:|:---------------------------:|
