@@ -4,7 +4,7 @@
 
 ### 🚦 Lista de Estrutura de decisão
 
-- `1️` Faça um Programa que peça dois números e imprima o maior deles.
+- `1️` - Faça um Programa que peça dois números e imprima o maior deles.
 - `2` Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo
 - 3️⃣ Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
 - 4️⃣ Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
