@@ -163,8 +163,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Booleano
       - Typecasting
       - String
-  - [🛡️ Try_except](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/try_except)
-    - Estudos de try
+  - 🛡️ [Try_except](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/try_except)   
+    - Exemplo de uso `Exception`
+    - Exemplo de uso `except`
+    - Exemplo de uso `as error` | Instância de uma classe
   - 🔒 [Tupla](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tupla)
     - Exemplo de criação de tupla
     - Conversão de `lista para tupla`

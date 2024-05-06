@@ -15,7 +15,7 @@ string = 'a = {0} \t b = {2:.4f} \t c ={1}'
 # seria uma outra forma de chamar o método format
 format1 = string.format(a,b,c)
 
-format2 = 'a = {}\t b = {}\t c = {:.3f}'.format(a,b,c)    
+format2 = 'a = {}\t b = {}\t c = {:.3f}'.format(a,b,c)  
 
-print(format2)
 print(format1)
+print(format2)

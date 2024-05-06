@@ -40,6 +40,26 @@ print(mensagem)
 # Saída: Olá, João! Você tem 25 anos.
 ```
 
+```python
+# Definindo os valores
+nome = "Alice"
+idade = 25
+altura = 1.65
+
+# Interpolação com espaçamento controlado
+mensagem = "Nome: {:<10} Idade: {:>5} Altura: {:.2f}".format(nome, idade, altura)
+print(mensagem)
+```
+
+Neste exemplo:
+
+{:<10}: Isso significa que o espaço reservado para o nome terá 10 caracteres de largura, e o nome será alinhado à esquerda
+dentro desse espaço.
+
+{:>5}: Isso significa que o espaço reservado para a idade terá 5 caracteres de largura, e a idade será alinhada à direita dentro desse espaço.
+
+{: .2f}: Isso significa que o espaço reservado para a altura será formatado como um número de ponto flutuante com duas casas decimais
+
 ## Uso de F-Strings (Formatted String Literals) 🚀
 
 As F-strings são uma técnica de interpolação introduzida no Python 3.6. Elas oferecem uma sintaxe mais simples e eficiente para interpolação, permitindo inserir valores diretamente em uma string prefixada com o caractere 'f'. Por exemplo:

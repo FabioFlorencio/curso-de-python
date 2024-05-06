@@ -53,6 +53,8 @@ Desconto do IR:
     |FGTS (11%)                 |    R$ 121,00      |
     |Total de descontos         |    R$ 165,00      |
     |Salário Liquido            |    R$ 935,00      |
+
+  - Nesse exemplo foi usado `desempacotamento em chamada de função`, `função format`, `parâmetro nomeado com índice` e `interpolação com espaçamento controlado`   
   
 - `13` - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 - `1️4️` - Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
