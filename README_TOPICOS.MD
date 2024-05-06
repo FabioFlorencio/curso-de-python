@@ -101,6 +101,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo para usar com `string`
        - Exemplo para usar com `decimal` e `float`
        - Exemplo de interpolação usando mais de uma variável 
+    - [Is_instance](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/is_instace)
+      - Exemplo para verificar se dentro da lista tem um item da `instância set`
+      - Exemplo para verificar se dentro da lista tem um item `int`, `float` e outros exemplos
     - 📦 [List](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/list)
       - Listas usando append()
       - Listas usando insert()
