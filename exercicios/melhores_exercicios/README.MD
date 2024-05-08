@@ -42,4 +42,6 @@ Desconto do IR:
     |Total de descontos         |    R$ 165,00      |
     |Salário Liquido            |    R$ 935,00      |
 
-  - Nesse exemplo foi usado `desempacotamento em chamada de função`, `função format`, `parâmetro nomeado com índice` e `interpolação com espaçamento controlado`    
+  - Nesse exemplo foi usado `desempacotamento em chamada de função`, `função format`, `parâmetro nomeado com índice` e `interpolação com espaçamento controlado` 
+  
+- `10` - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.   
