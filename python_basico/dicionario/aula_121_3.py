@@ -22,7 +22,7 @@ pessoa = {
 
 
 
-#print('Verifica se uma chave especifica no dicionário:',pessoa.setdefault('idade',None))
+#print('Verifica se tem uma chave especifica no dicionário:',pessoa.setdefault('idade',None))
 print('Verifica se uma chave especifica no dicionário:',pessoa.setdefault('idade',0))
 
 

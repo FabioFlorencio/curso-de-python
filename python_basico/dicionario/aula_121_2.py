@@ -33,6 +33,7 @@ print('Transforma em list, mas os seus elementos são tuplas: ',teste)
 
 
 print(teste)
+print('Pula linha')
 
 
 for chave in pessoa.keys():

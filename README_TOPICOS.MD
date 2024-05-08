@@ -12,16 +12,16 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
 
 - 🧱 [Python básico](#python-básico)
     - ⏪ [Caracter_escape](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/caracter_escape)
-      - Exemplos de caracteres de Escape
+      - Exemplos de caracteres de Escape | `Aula 73`
     - 🔗 [Concatenação](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/concatenacao)
       - Concatenação com operador +
       - Concatenação com a utilização de repetição
     - 🚦 [Condicionais](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/condicionais)
       - Exemplos sobre if / else / elif
-      - Exemplos Assignment expression `Avalia e atribui valor á variável`
+      - Exemplos Assignment expression 👉🏽 `Avalia e atribui valor á variável`
       - Exemplo de `elipses` e `pass`
       - Exemplo de `{variavel=}`
-      - Exemplo de `{variavel1 + variavel2=}`
+      - Exemplo de `{variavel1 + variavel2=}` | 👨🏽‍💻 [` Aula 33 - código `](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=561s)
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
