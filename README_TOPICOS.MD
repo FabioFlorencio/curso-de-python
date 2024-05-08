@@ -18,10 +18,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Concatenação com a utilização de repetição
     - 🚦 [Condicionais](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/condicionais)
       - Exemplos sobre if / else / elif
-      - Exemplos Assignment expression 👉🏽 `Avalia e atribui valor á variável`
+      - Exemplos Assignment expression 📍 [Avalia e atribui valor á variável](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/condicionais/35_aula_3.py)
       - Exemplo de `elipses` e `pass`
       - Exemplo de `{variavel=}`
-      - Exemplo de `{variavel1 + variavel2=}`  📍 [ Aula 33 - código ](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=561s)
+      - Exemplo de `{variavel1 + variavel2=}`  📍 [ Aula 33 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/condicionais/33_aula.py)
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante

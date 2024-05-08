@@ -14,15 +14,21 @@ def calcular_media_notas(notas_parcias):
     'D' : 'REPROVADO',
     'E' : 'REPROVADO'
 }
-    msg = ""
+    
     media_notas = sum(notas_parcias) / len(notas_parcias)
 
-    if media_notas >= 6 and media_notas <= 7.5:
+    if media_notas > 9:
         conceito = "A"
-        msg = f'Notas:\t  {notas_parcias}.\nA média é: {media_notas:>2}.\nConceito: {conceito:>2}\nSituação:{conceito_nota[conceito]:>10}'        
-        
-
-    return msg
+    elif media_notas > 7.5:    
+        conceito = "B"
+    elif media_notas > 6:    
+        conceito = "C" 
+    elif media_notas > 4:   
+        conceito = "D"
+    else:
+        conceito = "E"    
+           
+    return notas_parcias, media_notas, conceito, conceito_nota[conceito]    
 
 
 notas_parcias = []
@@ -31,7 +37,7 @@ c = 2
 
 while i < c:
     try:
-        num = int(input(f'Digite o {i+1}° número:'))
+        num = float(input(f'Digite o {i+1}° número:'))
         notas_parcias.append(num)
         i+= 1
     except ValueError:
@@ -40,10 +46,16 @@ while i < c:
         print('Você não digitou um número! Tente novamente!')   
 
 
+result = calcular_media_notas(notas_parcias)
 
-teste = calcular_media_notas(notas_parcias)
+msg = '''
+Notas:\t  {}.
+A média é: {:.2f}.
+Conceito: {:>2}.
+Situação:{:>10}
+'''
 
-print(teste)
+print(msg.format(*result))
 
 
 
