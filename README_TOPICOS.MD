@@ -12,7 +12,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
 
 - 🧱 [Python básico](#python-básico)
     - ⏪ [Caracter_escape](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/caracter_escape)
-      - Exemplos de caracteres de Escape | `Aula 73`
+      - Exemplos de caracteres de Escape |📍 [Aula 73 - código](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/caracter_escape/73_aula_0.py)
     - 🔗 [Concatenação](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/concatenacao)
       - Concatenação com operador +
       - Concatenação com a utilização de repetição
@@ -27,7 +27,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - 📖 [Dicionário](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/dicionarios)
-      - Exemplo de criar um `dicionário vazio`
+      - Exemplo de criar um 📍 `dicionário vazio`
       - Exemplo de uso `dict` | sobrescreve um dado
       - Exemplo de incluir uma `nova chave`
       - Exemplo de apagar uma chave e o valor `del `
@@ -42,7 +42,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de transformar uma `tuple em dict`
       - Exemplo de transformar uma `matriz em dict`
       - Exemplo de `dicionário com lista` 
-      - Exemplo de `dicionário com lista` | como alterar valor da chave     
+      - Exemplo de `dicionário com lista` | 👉🏽 como alterar valor da chave     
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
