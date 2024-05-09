@@ -101,7 +101,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo para usar com `string`
        - Exemplo para usar com `decimal` e `float`
        - Exemplo de interpolação usando mais de uma variável 
-    - [Is_instance](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/is_instace)
+    - 🧪 [Is_instance](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/is_instace)
       - Exemplo para verificar se dentro da lista tem um item da `instância set`
       - Exemplo para verificar se dentro da lista tem um item `int`, `float` e outros exemplos
     - 📦 [List](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/list)
@@ -119,11 +119,11 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemlo de `max()`
       - Exemlo de `min()`
       - Exemlo de `sum()`
-    - [List_comprehension]()
-      - Exemplo de list em liguagens tradicionais vs list comprehension 📍 [ Aula 136 - código ]()
+    - 📋 [List_comprehension]()
+      - Exemplo de list em liguagens tradicionais 🆚 list comprehension 📍 [ Aula 136.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/136_aula_0.py)
       - Exemplo de mapeamento de dados em list comprehension
-      - Exemplo de desempacotamento de dicionário em um novo dicionário 📍 [ Aula 137.1 - código ]()
-      - Exemplo de list comprehension com filtro 📍 [ Aula 138.0 - código ]()
+      - Exemplo de desempacotamento de dicionário em um novo dicionário 📍 [ Aula 137.1 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/137_aula_1.py)
+      - Exemplo de list comprehension com filtro 📍 [ Aula 138.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/138_aula_0.py)
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
       - Exemplo de `alinhamento central ^`

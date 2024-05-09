@@ -7,7 +7,7 @@
 
 '''
 
-# Em linguagens tradicioais, seria dessa forma a inclusão de itens em uma list vazia
+# Em linguagens tradicionais, seria dessa forma a inclusão de itens em uma list vazia
 lista = []
 for numero in range(10):
     lista.append(numero)
