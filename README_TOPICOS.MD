@@ -119,6 +119,11 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemlo de `max()`
       - Exemlo de `min()`
       - Exemlo de `sum()`
+    - [List_comprehension]()
+      - Exemplo de list em liguagens tradicionais vs list comprehension 📍 [ Aula 136 - código ]()
+      - Exemplo de mapeamento de dados em list comprehension
+      - Exemplo de desempacotamento de dicionário em um novo dicionário 📍 [ Aula 137.1 - código ]()
+      - Exemplo de list comprehension com filtro 📍 [ Aula 138.0 - código ]()
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
       - Exemplo de `alinhamento central ^`
@@ -170,6 +175,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - Exemplo de uso `Exception`
     - Exemplo de uso `except`
     - Exemplo de uso `as error` | Instância de uma classe
+    - Exemplo de uso `finally`
   - 🔒 [Tupla](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/tupla)
     - Exemplo de criação de tupla
     - Conversão de `lista para tupla`

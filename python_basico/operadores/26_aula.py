@@ -21,7 +21,7 @@ print('Divisão:', divisao ,' ', type(divisao))
 
 # dessa forma o resultado vai sair "truncado"
 divisao_inteira = 10 // 2.2
-print('Divisão interira:', divisao_inteira , '' , type(divisao_inteira))
+print('Divisão inteira:', divisao_inteira , '' , type(divisao_inteira))
 
 divisao1 = 10 / 3
 print('Divisão:', divisao1)

@@ -8,6 +8,8 @@
     Exception trata qualquer erro, como se fosse uma classe superior   
 
     # É possível tratar dois erros ao mesmo tempo, mas não é recomendado 
+    
+    link da documentação: https://docs.python.org/pt-br/3/library/exceptions.html#exception-hierarchy
 
 '''
 
