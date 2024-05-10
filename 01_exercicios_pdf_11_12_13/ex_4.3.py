@@ -21,8 +21,6 @@ media_notas += somar_notas / len(vetor_notas)
 for i in range(len(vetor_notas)):
     print(f"Todas as notas: {vetor_notas[i]}")
 
-# testehkdjhdkjh testehkdjhdkjh
-# teste hkdjhdkjh
 
 print(f"\nSoma de todas as notas: {somar_notas}")    
 print(f"Média das notas: {media_notas}")

@@ -21,7 +21,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos Assignment expression 📍 [Avalia e atribui valor á variável](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/condicionais/35_aula_3.py)
       - Exemplo de `elipses` e `pass`
       - Exemplo de `{variavel=}`
-      - Exemplo de `{variavel1 + variavel2=}`  📍 [ Aula 33 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/condicionais/33_aula.py)
+      - Exemplo de `{variavel1 + variavel2=}` 📍 [ Aula 33 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/condicionais/33_aula.py)
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
@@ -124,7 +124,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de mapeamento de dados em list comprehension
       - Exemplo de desempacotamento de dicionário em um novo dicionário 📍 [ Aula 137.1 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/137_aula_1.py)
       - Exemplo de list comprehension com filtro 📍 [ Aula 138.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/138_aula_0.py)
-      - Exemplo de matriz com comprehension [ Aula 139.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/139_aula_0.py)
+      - Exemplo de matriz com comprehension 📍 [ Aula 139.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/139_aula_0.py)
     - 🧩 [Matriz](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operações com Matrizes em Python
       - Exemplo de `alinhamento central ^`
@@ -162,7 +162,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
       - Exemplo split
       - Exemplo Strip
-      - Exemplo Join           
+      - Exemplo Join   
+      - Exemplo de replace 📍 [ Aula 93.13 - código ]()
+      - Exemplo de condição string 📍 [ Aula 93.15 - código ]()
+      - Exemplo de `import os ` | `Limpa tela do prompt` 📍 [ Aula 93.16 - código ]()
     - 🔪 [String_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
       - Fatiamento de string
       - Fatiamento de string usando `tupla`
