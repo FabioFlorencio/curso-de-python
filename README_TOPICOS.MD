@@ -163,9 +163,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo split
       - Exemplo Strip
       - Exemplo Join   
-      - Exemplo de replace 📍 [ Aula 93.13 - código ]()
-      - Exemplo de condição string 📍 [ Aula 93.15 - código ]()
-      - Exemplo de `import os ` | `Limpa tela do prompt` 📍 [ Aula 93.16 - código ]()
+      - Exemplo de replace 📍 [ Aula 93.13 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/string/93_aula_13.py)
+      - Exemplo de condição string 📍 [ Aula 93.15 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/string/93_aula_15.py)
+      - Exemplo de `import os ` | `Limpa tela do prompt` 📍 [ Aula 93.16 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/string/93_aula_16.py)
     - 🔪 [String_fatiamento](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string_fatiamento)
       - Fatiamento de string
       - Fatiamento de string usando `tupla`
