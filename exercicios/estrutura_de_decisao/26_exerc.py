@@ -40,6 +40,6 @@ def calcular_desc(qtd_litros, tipo_comb):
     else:
         perc_desc = PERC_GAS_4 if qtd_litros <= 20 else PERC_GAS_6
 
-    return    
+    return     
            
                      
