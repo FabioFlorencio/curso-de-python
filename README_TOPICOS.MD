@@ -72,6 +72,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de for utilizando `range`
       - Exemplo do método `iter`
       - Exemplo do método `next`
+      - Exemplo da função `reversed`
     - 🛠️ [Funcao](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao)
       - Função nomeada(Tem nome com sinal de igual)
       - Função não nomeada(Recebe apenas o argumento)
