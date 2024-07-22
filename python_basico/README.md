@@ -1,9 +1,9 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
-
+## Seção 4 - aula 157 Introdução aos packages (pacotes) em Python
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
 ## Seção 4 - aula 131. Operadores importantes para o tipo set (conjuntos)
-## Seção 4 - aula 151 - try, except, else e finally + Built-in Exceptions
+## Seção 4 - aula 151 - try, except, else e finally + Built-in Exceptions - continuar
 ## Seção 3 - aula 88
 ## Seção 3 - aula 53 ao 57
 
