@@ -131,6 +131,10 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de `alinhamento central ^`
       - Quantidade de arrays dentro da matriz usando o método`shape[]`:
       - Exercícios com matriz
+    - 📦 [Modularizacao](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/modularizacao)
+      - Exemplo de modularização(import, from. alias)
+    - 📁 [Modulo](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/modulos)
+      - Exemplos de módulos
     - 🧮 [Operadores](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/matriz)
       - Operadores ariméticos
         - Adição
@@ -160,6 +164,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
+    - 🚧 [Raise](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/raise)
+      - Exemplo Raise `lançando exceções (erros)`
     - [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
       - Exemplo split
       - Exemplo Strip
