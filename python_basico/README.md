@@ -1,5 +1,5 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
-## Seção 4 - aula 157 Introdução aos packages (pacotes) em Python
+## Seção 4 - aula 164 . Variáveis livres + nonlocal (locals, globals) - continuar
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
 ## Seção 4 - aula 131. Operadores importantes para o tipo set (conjuntos)
