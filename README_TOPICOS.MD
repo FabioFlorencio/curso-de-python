@@ -164,7 +164,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo de `sum` com matriz
     - [Operacao_ternaria](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/operador_ternario)
       - Exemplo `print('Verdadeiro' if valida_tern else 'Falso')`
-    - 📦 [Packages]()
+    - 📦 [Packages](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/packages)
       - Exemplos de utilização de pacotes 📍 `from, import `
     - 🚧 [Raise](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/raise)
       - Exemplo Raise `lançando exceções (erros)`
