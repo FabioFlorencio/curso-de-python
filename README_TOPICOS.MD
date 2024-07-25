@@ -60,7 +60,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
-    - 📝[Format](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/format)
+    - 📝[Format_string](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/format_string)
       - Format()
       - Format() com parâmetros nomeados
       - Format() com parâmetros nomeados usando índices
