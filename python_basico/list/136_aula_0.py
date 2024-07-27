@@ -2,7 +2,7 @@
     Aula 136 - Introdução à List comprehension em Python
 
     List comprehension em python
-    List comprehension é uma rápida para criar listas
+    List comprehension é uma forma rápida para criar listas
     a partir de iteráveis
 
 '''
