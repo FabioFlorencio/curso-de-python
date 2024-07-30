@@ -2,7 +2,7 @@
 ## Seção 4 - aula 164 . Variáveis livres + nonlocal (locals, globals) - continuar
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
-## Seção 4 - aula 131. Operadores importantes para o tipo set (conjuntos)
+## Seção 4 - aula 143.  Valores Truthy e Falsy, Tipos Mutáveis e Imutáveis
 ## Seção 4 - aula 151 - try, except, else e finally + Built-in Exceptions - continuar
 ## Seção 3 - aula 88
 ## Seção 3 - aula 53 ao 57
@@ -23,6 +23,10 @@
 - [ ] Falta o README do diretório de funcao_numeros
 - [ ] Falta o README do diretório de split,strip e join
 - [ ] Incluir no README do diretório list a explicação do método list.sort()
+- [ ] Incluir link do github para aula de lambda (pasta função)
+- [ ] Incluir link do github para aula de dicionário (pasta dicionario) - 135
+- [ ] Incluir link do github para aula de dicionário (pasta dicionario) - 141
+- [ ] Incluir link do github para aula de set (pasta dicionario) - 142
 
 
 

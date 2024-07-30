@@ -19,7 +19,7 @@
 '''
 
 # s1 = {1,2,3, [1,2,3]}
-# Set não aceita valores mutáveis
+#Set não aceita valores mutáveis
 # print(s1)
 
 s2 = {1,2,3}

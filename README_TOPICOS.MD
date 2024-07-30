@@ -43,6 +43,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de transformar uma `matriz em dict`
       - Exemplo de `dicionário com lista` 
       - Exemplo de `dicionário com lista` | 👉🏽 como alterar valor da chave     
+      - Exemplo de `dicionário usando lambda` | 📍 [ Aula 122.5 - código ]()
+      - Exemplo de `empacotamento e desempacotamento de dicionário` | 📍 [ Aula 135 - código ]()
+      - Exemplo de `dicionário com filtro` | 📍 [ Aula 141 - código ]()
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -82,6 +85,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de uso `variável global` | Não recomendado seu uso
       - Exemplo de uso `*args` | args é uma convenção comum para se referir a uma sequência de argumentos
       - Exemplo de uso `função que retorna outra função`
+      - Exemplo de uso `função lambda` 📍 [ Aula 136.0 - código ]()
     - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 
