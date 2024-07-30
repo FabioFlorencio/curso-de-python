@@ -24,9 +24,9 @@
 - [ ] Falta o README do diretório de split,strip e join
 - [ ] Incluir no README do diretório list a explicação do método list.sort()
 - [ ] Incluir link do github para aula de lambda (pasta função)
-- [ ] Incluir link do github para aula de dicionário (pasta dicionario) - 135
-- [ ] Incluir link do github para aula de dicionário (pasta dicionario) - 141
-- [ ] Incluir link do github para aula de set (pasta dicionario) - 142
+- [x] Incluir link do github para aula de dicionário (pasta dicionario) - 135
+- [x] Incluir link do github para aula de dicionário (pasta dicionario) - 141
+- [x] Incluir link do github para aula de set (pasta dicionario) - 142
 
 
 

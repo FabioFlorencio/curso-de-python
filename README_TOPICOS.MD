@@ -43,9 +43,9 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de transformar uma `matriz em dict`
       - Exemplo de `dicionário com lista` 
       - Exemplo de `dicionário com lista` | 👉🏽 como alterar valor da chave     
-      - Exemplo de `dicionário usando lambda` | 📍 [ Aula 122.5 - código ]()
-      - Exemplo de `empacotamento e desempacotamento de dicionário` | 📍 [ Aula 135 - código ]()
-      - Exemplo de `dicionário com filtro` | 📍 [ Aula 141 - código ]()
+      - Exemplo de `dicionário usando lambda` | 📍 [ Aula 122.5 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/dicionario/122_aula_5.py)
+      - Exemplo de `empacotamento e desempacotamento de dicionário` | 📍 [ Aula 135.2 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/dicionario/135_aula_2.py)
+      - Exemplo de `dicionário com filtro` | 📍 [ Aula 141.2 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/dicionario/141_aula_2.py)
     - 📝 [DocString](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/DocString)
       - Comentário de linha única
       - Comentário em bloco
@@ -85,7 +85,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de uso `variável global` | Não recomendado seu uso
       - Exemplo de uso `*args` | args é uma convenção comum para se referir a uma sequência de argumentos
       - Exemplo de uso `função que retorna outra função`
-      - Exemplo de uso `função lambda` 📍 [ Aula 136.0 - código ]()
+      - Exemplo de uso `função lambda` 📍 [ Aula 133.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/funcao/133_aula_0.py)
     - 📟 [Funcao_numeros](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/funcao_numeros)
       - Exemplo de `função round`
       - Exemplo de `decimal.Decimal` 
@@ -124,7 +124,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemlo de `max()`
       - Exemlo de `min()`
       - Exemlo de `sum()`
-    - 📋 [List_comprehension]()
+    - 📋 [List_comprehension](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/list_comprehension)
       - Exemplo de list em liguagens tradicionais 🆚 list comprehension 📍 [ Aula 136.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/136_aula_0.py)
       - Exemplo de mapeamento de dados em list comprehension
       - Exemplo de desempacotamento de dicionário em um novo dicionário 📍 [ Aula 137.1 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list_comprehension/137_aula_1.py)
