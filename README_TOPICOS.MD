@@ -172,7 +172,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplos de utilização de pacotes 📍 `from, import `
     - 🚧 [Raise](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/raise)
       - Exemplo Raise `lançando exceções (erros)`
-    - [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
+    - ✍️ [String](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/string)
       - Exemplo split
       - Exemplo Strip
       - Exemplo Join   
