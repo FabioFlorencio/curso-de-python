@@ -10,5 +10,6 @@ print('Retira o espaço:',curso.strip())
 
 print(curso.upper().strip())
 print(curso.lower().strip())
+print(curso.title().strip())
 
 print(curso.replace('python', 'java'))

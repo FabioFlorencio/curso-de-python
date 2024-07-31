@@ -1,4 +1,4 @@
-    '''
+'''
     Aula 93 - split, join e strip são métodos muito úteis da str
     split e join com list e str
     split - divide uma string
