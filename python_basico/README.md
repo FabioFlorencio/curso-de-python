@@ -12,7 +12,7 @@
 - [ ] Falta o README do diretório interpolação de string
 - [ ] Falta o README do diretório string fatiamento
 - [ ] Falta o README do diretório try except
-- [ ] Falta o README do diretório func_id
+- [ ] Falta o README do diretório func_id                       
 - [ ] Falta o README do diretório flag
 - [ ] Falta o README do diretório obj_mutaveis
 - [ ] Falta o README do diretório while
@@ -24,6 +24,8 @@
 - [ ] Falta o README do diretório de split,strip e join
 - [ ] Incluir no README do diretório list a explicação do método list.sort()
 - [ ] Incluir link do github para aula de lambda (pasta função)
+- [ ] Incluir link do github para o diretório generator
+- [ ] Incluir link no github para aula de generator expression - 146
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 135
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 141
 - [x] Incluir link do github para aula de set (pasta dicionario) - 142
