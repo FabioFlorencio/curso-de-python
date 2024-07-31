@@ -99,7 +99,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - `sep , end`
     - 🆔 [Func_id](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/func_id)
       - Exemplos de função id
-    - [Generator]()
+    - 🔄 [Generator](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/generator_functions)
       - Exemplo de generator
     - 📥 [Input](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/input)
       - Exemplos do uso de input
