@@ -1,5 +1,5 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
-## Seção 4 - aula 164 . Variáveis livres + nonlocal (locals, globals) - continuar
+## Seção 4 - aula 171 . Exercícios - somando duas listas - continuar
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
 ## Seção 4 - aula 143.  Valores Truthy e Falsy, Tipos Mutáveis e Imutáveis
@@ -26,7 +26,7 @@
 - [ ] Incluir link do github para aula de lambda (pasta função)
 - [ ] Incluir link do github para o diretório generator
 - [ ] Incluir link no github para aula de generator expression - 146
-- [ ] incluir link no github para aula de list zip - 169
+- [x] incluir link no github para aula de list zip - 169
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 135
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 141
 - [x] Incluir link do github para aula de set (pasta dicionario) - 142

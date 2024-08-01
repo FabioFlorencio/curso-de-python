@@ -26,7 +26,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - π [Constante](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/constante)
       - Exemplo de boas praticas usando constante
       - Exemplo "line continuation" `quebrar uma linha de código longa em várias linhas`
-    - 🎨[Decoradores]()
+    - 🎨[Decoradores](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/decoradores)
       - Exemplo de uso de `Decoradores` 
     - 📖 [Dicionário](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/dicionarios)
       - Exemplo de criar um 📍 `dicionário vazio`
@@ -121,7 +121,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Listas usando clear()
       - Listas usando extend()
       - Listas usando copy()
-      - Listas usando zip 📍 [ Aula 169.0 - código ]()
+      - Listas usando zip 📍 [ Aula 169.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list/169._aula_0.py)
       - Listas usando zip `itertools zip_longest`
       - Método id() - serve para obter o endereço de memória de um objeto.
       - Método sort
