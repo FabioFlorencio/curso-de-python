@@ -6,7 +6,7 @@
 
 '''
 
-nome = input('Qual o seu nome? ')
+nome = input('Qual o seu nome? ').upper()
 idade = int(input(f'Qual é a sua idade?'))
 num1 = int(input(f'Digite um número:'))
 num2 = int(input(f'Digite outro número:'))
