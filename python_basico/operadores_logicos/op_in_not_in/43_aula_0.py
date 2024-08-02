@@ -16,9 +16,9 @@ print(nome[-4])
 
 print(10 * '-')
 
-print('Os caracters "Fá" está no array nome?','Fá' in nome)
-print('Os caracters "Florêncio" está no array nome?',"Florêncio" in nome)
+print('Os caracters "Fá" está na string nome?','Fá' in nome)
+print('Os caracters "Florêncio" está no string nome?',"Florêncio" in nome)
 
 print(10 * '-')
 
-print('Não tem "Florêncio" no array nome?',"Florêncio" not in nome)
+print('Não tem "Florêncio" no string nome?',"Florêncio" not in nome)
