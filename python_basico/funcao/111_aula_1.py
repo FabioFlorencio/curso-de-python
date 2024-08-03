@@ -8,8 +8,10 @@
 def soma(*args):
     total = 0 
     for numero in args:
-        print('Total', total, numero)
-        total = total + numero
-    print(total)    
+        total+= numero
 
-soma(2,4,6,7,8,3)        
+    return total    
+        
+result = soma(2,4,6,7,8,3)        
+
+print(f'Total:',result)

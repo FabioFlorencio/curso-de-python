@@ -22,7 +22,7 @@ print(*lista)
 print(*tupla)
 print(*salas)
 print()
-print('Mosta a lista conforme está distribuidos os itens.')
+print('Mostra a lista conforme está distribuidos os itens.')
 print(*salas, sep='\n')
 print()
 

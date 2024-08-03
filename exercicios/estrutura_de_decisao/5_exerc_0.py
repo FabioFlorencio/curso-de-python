@@ -9,28 +9,27 @@
 notas_parciais = []
 qtd_notas = 2
 media_nota = 0
-msg = ""
+msg = []
 
 for i in range(qtd_notas):
     notas_parciais.append(float(input(f'Digite a {i+1}° nota: ')))        
-    media_nota+= notas_parciais[i] / qtd_notas
+    media_nota += notas_parciais[i] / qtd_notas
 
 
-def avaliar_aprovacao(media_nota,msg):        
+def avaliar_aprovacao(media_nota):        
     if media_nota >= 7:        
-        msg+= "Aprovado"   
-
+        msg.append("Aprovado")
         if media_nota == 10:
-            msg+= " com Distinção"                 
+            msg.append(" com Distinção.")
     else:
-        msg = "Reprovado"
-               
+        msg.append("Reprovado")
+    
+    return msg, media_nota
 
-    return f'O aluno foi {msg}, com média {media_nota:.2f} .' 
+msg, media_nota = avaliar_aprovacao(media_nota) 
+txt = ''.join(msg)
 
-
-print(avaliar_aprovacao(media_nota,msg))
-
+print('O aluno foi {}, com média {:.2f}.'.format(txt, media_nota))
     
 
 
