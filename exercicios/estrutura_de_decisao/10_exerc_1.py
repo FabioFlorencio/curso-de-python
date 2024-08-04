@@ -10,26 +10,25 @@ turno = {
     'N': 'Noturno'
 }
 
-valida = False
+valida = True
 
 msg = input('Em que turno você estuda? Digite M - matutino ou V - Vespertino ou N - Noturno: ')
 
-msg_upper = msg.upper()
+msg_t = msg.upper()
 
 # a comparação é feita pela chave
-if msg_upper in turno:
-    print(f'Bom {turno[msg_upper]}!')
+if msg_t in turno:
+    print(f'Bom {turno[msg_t]}!')
 else:
     for value in turno.values():        
-        if msg_upper == value.upper():
+        if msg_t == value.upper():
             print(f'Bom {value.capitalize()}!') 
-            valida = True
+            valida = False
             
 
-    if not valida:
-            entrada = f'2 - O que vc digitou não é valido! Tente de novamente!'    
+if not valida:
+    print(f'2 - O que vc digitou não é valido! Tente de novamente!')
 
-print(entrada)            
 
     
 
