@@ -26,6 +26,8 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [For usando enumerate e range](#for-usando-enumerate-e-range)
     - [While com contador](#while-com-contador)
     - [While com valor booleano](#while-com-valor-booleano)
+  - [⚖️ Operadores relacionais](#️-operadores-relacionais)
+    - [Compara valores ou expressões](#compara-valores-ou-expressões)
   - [✍️ Operações com string](#️-operações-com-string)
     - [Tamanho da string](#tamanho-da-string)
     - [Acessar Caracteres](#acessar-caracteres)
@@ -61,6 +63,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Função aninhada](#função-aninhada)
     - [Função simples chamando outra função](#função-simples-chamando-outra-função)
     - [Função passando argumento para outra função](#função-passando-argumento-para-outra-função)
+    - [Função usando operadores relacionais no return](#função-usando-operadores-relacionais-no-return)
     - [Função usando \*args](#função-usando-args)
 
 
@@ -269,6 +272,21 @@ while valida:
 ```
 
 ---
+## ⚖️ Operadores relacionais
+
+###  Compara valores ou expressões
+```python
+maior = 2 > 1
+maior_ou_igual = 2 >= 2
+menor = 1 < 2
+menor_ou_igual = 2 <= 2
+igual = 'a' == 'a'
+diferente = 'a' != 'b'
+
+print(f' 2 é maior que 1: {maior}') 
+```
+---
+
 ## ✍️ Operações com string
 
 ###  Tamanho da string
@@ -591,6 +609,19 @@ lista_nomes = ['Fábio', 'Maria', 'Julia']
 result = saudar_pessoas(lista_nomes)
 
 print(*result,sep='\n')
+```
+
+### Função usando operadores relacionais no return
+
+```python
+def acima_de_30(numero):
+    return numero < 30
+
+lista = [numero for numero in range(10,50,10)]
+
+lista_filtrada = list(filter(acima_de_30, lista))
+
+print(lista_filtrada)
 ```
 
 ### Função usando *args
