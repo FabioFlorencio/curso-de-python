@@ -257,7 +257,7 @@ for i, numero in enumerate(range(0, 22, 2)):
 ```python
 contador = 0
 while contador <= 10:
-    contador = contador + 1
+    contador+= 1
     print(contador)
 
 print('Acabou')  
@@ -532,6 +532,7 @@ for l in range(0,3):
         print(f'[{matriz[l][c]:^5}]', end='')
     print()        
 ```
+---
 
 ## 🔒 Utilização de Tupla
 
@@ -558,7 +559,7 @@ print('Retorna somente as chaves do dicionário:',pessoa.keys())
 print('Retorna somente os valores do dicionário',pessoa.values())
 print('Retorna somente os itens do dicionário',pessoa.items())
 ```
-
+---
 
 ## 🛠️ Função
 
