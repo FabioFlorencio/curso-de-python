@@ -14,5 +14,5 @@ idade = 25
 altura = 1.65
 
 # Interpolação com espaçamento controlado
-mensagem = "Nome: {:<10} Idade: {:>10} Altura: {:>8.2f}".format(nome, idade, altura)
+mensagem = "Nome:{:<10}Idade:{:>10} Altura:{:>8.2f}".format(nome, idade, altura)
 print(mensagem)
