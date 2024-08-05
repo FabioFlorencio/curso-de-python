@@ -64,6 +64,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Função simples chamando outra função](#função-simples-chamando-outra-função)
     - [Função passando argumento para outra função](#função-passando-argumento-para-outra-função)
     - [Função usando operadores relacionais no return](#função-usando-operadores-relacionais-no-return)
+    - [Função usando lambda](#função-usando-lambda)
     - [Função usando \*args](#função-usando-args)
 
 
@@ -625,6 +626,18 @@ lista_filtrada = list(filter(acima_de_30, lista))
 print(lista_filtrada)
 ```
 
+### Função usando lambda
+
+```python
+def acima_de_30(numeros):
+    return numeros > 30
+
+lista = [numero for numero in range(10,60,10)]
+
+lista_filtrada = list(filter(lambda numero: numero > 30, lista))
+
+print(lista_filtrada)
+```
 ### Função usando *args
 
 ```python

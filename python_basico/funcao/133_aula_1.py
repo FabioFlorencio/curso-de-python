@@ -1,7 +1,6 @@
 '''
     Aula 133 -  Introdução à função lambda + list.sort e sorted
     
-
 '''
 
 lista_1 = [    
