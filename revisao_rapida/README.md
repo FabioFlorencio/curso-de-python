@@ -20,6 +20,8 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
   - [🎯 Interpolação](#-interpolação)
     - [Interpolação com espaçamento](#interpolação-com-espaçamento)
     - [Interpolação com espaçamento controlado](#interpolação-com-espaçamento-controlado)
+  - [🛡️ Exceções](#️-exceções)
+    - [Try except](#try-except)
   - [🔄 Estrutura de repetição](#-estrutura-de-repetição)
     - [For usando range](#for-usando-range)
     - [For usando enumerate](#for-usando-enumerate)
@@ -53,6 +55,9 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [List método: insert](#list-método-insert)
     - [List método: extend](#list-método-extend)
     - [List método: copy, clear](#list-método-copy-clear)
+  - [🧩 zip](#-zip)
+    - [zip](#zip)
+    - [Desembrulhando listas com zip(\*...):](#desembrulhando-listas-com-zip)
   - [🧩 Utilização de Matriz](#-utilização-de-matriz)
     - [Matriz](#matriz)
   - [🔒 Utilização de Tupla](#-utilização-de-tupla)
@@ -64,7 +69,8 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Função simples chamando outra função](#função-simples-chamando-outra-função)
     - [Função passando argumento para outra função](#função-passando-argumento-para-outra-função)
     - [Função usando operadores relacionais no return](#função-usando-operadores-relacionais-no-return)
-    - [Função usando lambda](#função-usando-lambda)
+    - [Função usando lambda simples](#função-usando-lambda-simples)
+    - [Função usando lambda com filter](#função-usando-lambda-com-filter)
     - [Função usando \*args](#função-usando-args)
 
 
@@ -221,6 +227,40 @@ print(mensagem)
 
 
 ---
+## 🛡️ Exceções
+
+### Try except
+
+```python
+valida = True
+
+while valida:
+
+    primeira_validacao = True
+
+    while primeira_validacao:
+       
+        num1 = input('Digite um número:')  
+                    
+        if num1.isnumeric():
+            num1 = int(num1)                
+            print('Isso é um inteiro:',type(num1),num1)            
+            primeira_validacao = False
+        else:    
+            try:
+                num1 = float(num1) 
+                print('Isso é um float:',type(num1),num1)                                                                  
+                primeira_validacao = False                                                                 
+            except ValueError:                               
+                print('Isso não é um número.')
+                print(type(num1))   
+
+    result = num1 + int('2')
+    valida = False    
+```
+
+---
+
 ## 🔄 Estrutura de repetição
 
 ### For usando range 
@@ -521,6 +561,42 @@ list_b = list_a.copy()
 list_b = list_a.clear()
 ```
 
+## 🧩 zip
+
+### zip
+
+```python
+lista1 = [1, 2, 3]
+lista2 = ['a', 'b', 'c']
+
+# Usando zip para combinar as duas listas
+combinado = zip(lista1, lista2)
+
+# Convertendo para uma lista de tuplas
+combinado = list(combinado)
+print(combinado)  # [(1, 'a'), (2, 'b'), (3, 'c')]
+
+```
+
+### Desembrulhando listas com zip(*...):
+
+```python
+combinado = [(1, 'a'), (2, 'b'), (3, 'c')]
+
+# Desembrulhando as listas
+lista1, lista2 = zip(*combinado)
+
+# Convertendo para listas
+lista1 = list(lista1)
+lista2 = list(lista2)
+
+print(lista1)  # [1, 2, 3]
+print(lista2)  # ['a', 'b', 'c']
+
+```
+
+---
+
 ## 🧩 Utilização de Matriz
 
 ### Matriz
@@ -626,7 +702,22 @@ lista_filtrada = list(filter(acima_de_30, lista))
 print(lista_filtrada)
 ```
 
-### Função usando lambda
+### Função usando lambda simples
+
+```python
+def soma(num1, mum2):
+    return num1 + num2
+
+num1 = num2 = 2
+
+# A função lambda precisa ser atribuida a uma variável antes do uso
+soma_lambda = lambda num1, num2: num1 + num2
+
+print(soma_lambda(num1, num2))
+print(soma_lambda(5, num2))
+```
+
+### Função usando lambda com filter
 
 ```python
 def acima_de_30(numeros):
