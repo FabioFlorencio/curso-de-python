@@ -26,7 +26,7 @@
 - [ ] Incluir link do github para aula de lambda (pasta função)
 - [ ] Incluir link do github para o diretório generator
 - [ ] Incluir link no github para aula de generator expression - 146
-- [ ] Incluir link da aula enumerate 117
+- [x] Incluir link da aula enumerate 117
 - [x] incluir link no github para aula de list zip - 169
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 135
 - [x] Incluir link do github para aula de dicionário (pasta dicionario) - 141

@@ -103,7 +103,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
     - 🆔 [Func_id](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/func_id)
       - Exemplos de função id
     - 🔄 [Generator](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/generator_functions)
-      - Exemplo de generator
+      - Exemplo de generator | 📍 [ Aula 146.1 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/generator_functions/146_aula_1.py)
     - 📥 [Input](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/input)
       - Exemplos do uso de input
     - 🎯 [Interpolação_string](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/interpolacao_string)
@@ -111,6 +111,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo para usar com `string`
        - Exemplo para usar com `decimal` e `float`
        - Exemplo de interpolação usando mais de uma variável 
+    - 📈 [Intertools]()
+      - Exemplo de uso `Combinations, Permutations e Product`
     - 🧪 [Is_instance](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/is_instace)
       - Exemplo para verificar se dentro da lista tem um item da `instância set`
       - Exemplo para verificar se dentro da lista tem um item `int`, `float` e outros exemplos
@@ -124,7 +126,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Listas usando copy()
       - Listas usando zip 📍 [ Aula 169.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list/169._aula_0.py)
       - Listas usando `zip itertools zip_longest`
-      - Listas usando `zip para somar duas listas` | 📍 [ Aula 169.0 - código ]() 
+      - Listas usando `zip para somar duas listas` | 📍 [ Aula 171.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list/171._aula_0.py) 
       - Método id() - serve para obter o endereço de memória de um objeto.
       - Método sort
       - Método sort(reverse=True)

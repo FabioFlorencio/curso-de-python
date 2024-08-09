@@ -2,7 +2,7 @@
     171 - Exercícios | somando duas listas
     Usa a função zip do módulo itertools para combinar elementos de duas listas e parar na lista com menos elementos.
 
-    A função zip, por padrão, já se comporta dessa maneira: ela combina os elementos das listas até que uma das listas se esgote, ou seja, até que a lista com menos elementos termine.
+    zip só une as listas até o tamanho da menor lista, por padrâo.
 
 '''
 
