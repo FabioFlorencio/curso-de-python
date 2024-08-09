@@ -62,6 +62,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de `enumerate`
       - Exemplo de `list(enumerate(lista))`
       - Exemplo de `list(enumerate(lista, start=2))`
+      - Exemplo de `enumerate _` | `_ para indicar que o valor será ignorado.` 📍 [ Aula 117.0 - código ]()
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
