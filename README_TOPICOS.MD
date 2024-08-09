@@ -62,7 +62,7 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Exemplo de `enumerate`
       - Exemplo de `list(enumerate(lista))`
       - Exemplo de `list(enumerate(lista, start=2))`
-      - Exemplo de `enumerate _` | `_ para indicar que o valor será ignorado.` 📍 [ Aula 117.0 - código ]()
+      - Exemplo de `enumerate _` | `_ para indicar que o valor será ignorado.` 📍 [ Aula 117.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/enumerate/117_aula_0.py)
     - 🏹 [F_strings](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/f_strings)
       - Formatação de string versão 3.6
       - Formatação de números
@@ -123,7 +123,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
       - Listas usando extend()
       - Listas usando copy()
       - Listas usando zip 📍 [ Aula 169.0 - código ](https://github.com/FabioFlorencio/curso-de-python/blob/master/python_basico/list/169._aula_0.py)
-      - Listas usando zip `itertools zip_longest`
+      - Listas usando `zip itertools zip_longest`
+      - Listas usando `zip para somar duas listas` | 📍 [ Aula 169.0 - código ]() 
       - Método id() - serve para obter o endereço de memória de um objeto.
       - Método sort
       - Método sort(reverse=True)
