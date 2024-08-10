@@ -24,6 +24,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Try except](#try-except)
   - [🔄 Estrutura de repetição](#-estrutura-de-repetição)
     - [For usando range](#for-usando-range)
+    - [For usando reversed](#for-usando-reversed)
     - [For usando enumerate](#for-usando-enumerate)
     - [For usando enumerate e range](#for-usando-enumerate-e-range)
     - [While com contador](#while-com-contador)
@@ -55,6 +56,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [List método: insert](#list-método-insert)
     - [List método: extend](#list-método-extend)
     - [List método: copy, clear](#list-método-copy-clear)
+    - [List método: sort , sort(reverse=True)](#list-método-sort--sortreversetrue)
   - [🧩 zip](#-zip)
     - [zip](#zip)
     - [Desembrulhando listas com zip(\*...):](#desembrulhando-listas-com-zip)
@@ -71,6 +73,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Função usando operadores relacionais no return](#função-usando-operadores-relacionais-no-return)
     - [Função usando lambda simples](#função-usando-lambda-simples)
     - [Função usando lambda com filter](#função-usando-lambda-com-filter)
+    - [Função usando lambda com sorted](#função-usando-lambda-com-sorted)
     - [Função usando \*args](#função-usando-args)
 
 
@@ -268,14 +271,24 @@ while valida:
 ```python
 indice = 0
 
-print()
-
 # Range -> (start,stop,step)
 for numero in range(0,22,2):
     print(2,indice,sep=" x ", end=" = ")
     print(numero)
     indice+=1
 ```
+
+### For usando reversed
+
+```python
+indice = 0
+
+lista = [1,2,3,4,5]
+
+for numero in reversed(lista):
+    print(numero, end=' ')
+```
+
 
 ### For usando enumerate
 
@@ -561,6 +574,24 @@ list_b = list_a.copy()
 list_b = list_a.clear()
 ```
 
+### List método: sort , sort(reverse=True)
+
+
+```python
+lista = [5,1,3,2,4]
+
+# Ordena de forma crescente
+lista.sort()
+
+print(lista)
+
+# Ordena de forma decrescente
+lista.sort(reverse=True)
+
+print(lista)
+
+```
+
 ## 🧩 zip
 
 ### zip
@@ -728,6 +759,26 @@ lista = [numero for numero in range(10,60,10)]
 lista_filtrada = list(filter(lambda numero: numero > 30, lista))
 
 print(lista_filtrada)
+```
+### Função usando lambda com sorted
+
+```python
+alunos = [
+    {'nome': 'Luiz', 'nota': 'A'},
+    {'nome': 'Letícia', 'nota': 'B'},
+    {'nome': 'Fabrício', 'nota': 'A'},
+    {'nome': 'Rosemary', 'nota': 'C'},
+    {'nome': 'Joana', 'nota': 'D'},
+    {'nome': 'João', 'nota': 'A'},
+    {'nome': 'Eduardo', 'nota': 'B'},
+    {'nome': 'André', 'nota': 'A'},
+    {'nome': 'Anderson', 'nota': 'C'}                            
+]
+
+
+alunos_agrupados = sorted(alunos, key=lambda aluno: aluno['nota'])
+
+print(alunos_agrupados)
 ```
 ### Função usando *args
 

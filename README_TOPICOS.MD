@@ -112,7 +112,8 @@ Aqui você encontrará uma variedade de recursos e exemplos para ajudá-lo a com
        - Exemplo para usar com `decimal` e `float`
        - Exemplo de interpolação usando mais de uma variável 
     - 📈 [Intertools]()
-      - Exemplo de uso `Combinations, Permutations e Product`
+      - Exemplo de uso `Combinations, Permutations, Product e groupby`
+      - Faz combinações de uma lista - `permutations` 
     - 🧪 [Is_instance](https://github.com/FabioFlorencio/curso-de-python/tree/master/python_basico/is_instace)
       - Exemplo para verificar se dentro da lista tem um item da `instância set`
       - Exemplo para verificar se dentro da lista tem um item `int`, `float` e outros exemplos
