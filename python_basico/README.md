@@ -1,5 +1,5 @@
 ## Seção 3 - aula 33 Usando a função input para coletar dados do usuário
-## Seção 4 - aula 175
+## Seção 4 - aula 175   
 
 ## Seção 4 - aula 111. (Parte 1) *args para quantidade de argumentos não nomeados variáveis 
 ## Seção 4 - aula 143.  Valores Truthy e Falsy, Tipos Mutáveis e Imutáveis

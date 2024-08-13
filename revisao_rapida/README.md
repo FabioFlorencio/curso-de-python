@@ -51,6 +51,7 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Random](#random)
       - [Random inteiros](#random-inteiros)
       - [Random float](#random-float)
+      - [Random sample](#random-sample)
   - [📋 List](#-list)
     - [List método: append, pop, del](#list-método-append-pop-del)
     - [List método: insert](#list-método-insert)
@@ -526,6 +527,16 @@ for i in range(10):
 
 # Imprime a lista de números aleatórios
 print(f'Números aleatórios (float): {random_floats}')
+```
+#### Random sample
+
+```python
+import random
+
+vetor_a, vetor_b = zip(*[(num, num + num) for num in random.sample(range(1,100),5)])
+
+print('Vetor a:',vetor_a)
+print('Vetor b:',vetor_b)
 ```
 
 ---

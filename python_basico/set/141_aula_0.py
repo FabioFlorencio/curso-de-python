@@ -10,10 +10,7 @@ lista = [
     {'c','valor c'},
 ]
 
-dc = {
-    chave: valor
-    for chave, valor in lista
-}
+dc = {chave: valor for chave, valor in lista}
 
 s1 = {i for i in range(10)}
 print(s1)
