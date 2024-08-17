@@ -9,8 +9,10 @@
 # método init -> inicializa os atributos da classe, e é uma das primeiras coisas que são executadas quando você cria uma classe
 # método init -> sempre retorna none
 # self é algo parecido com o "this" do java
+# self é usado para referenciar a própria instância
 # self é o objeto da classe
 # self é usado para usar os dados da instância
+# self é usado por convenção, mas poderia ser outro nome
 
 class Pessoa:
     def __init__(self, nome, sobrenome):

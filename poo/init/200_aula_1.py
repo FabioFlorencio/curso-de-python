@@ -21,4 +21,10 @@ carro_2 = Carro(nome = 'Celta')
 print(carro_2.nome)
 carro_2.acelerar()
 
+print()
+
+carro_3 = Carro('Ferrari')
+
+Carro.acelerar(carro_3)
+
 
