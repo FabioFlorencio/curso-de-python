@@ -1,4 +1,4 @@
-# Aula 203 - Matendo estados dentro da classe
+# Aula 203 - Mantendo estados dentro da classe
 
 
 class Camera:

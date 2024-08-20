@@ -13,7 +13,9 @@ lista_a.extend(lista_b)
 
 lista_c.append('Fabio')
 
+print('Usando o método extend na lista_a:', lista_a)
 print(lista_c)
 print(id(lista_a))
 print(id(lista_b))
 print(id(lista_c))
+print(sum(lista_a))
