@@ -39,7 +39,10 @@ Aqui está uma tabela de revisão sobre as principais sintaxes em Python.
     - [Substituir Substrings](#substituir-substrings)
     - [Dividir e Juntar Strings](#dividir-e-juntar-strings)
     - [Verificar Substrings](#verificar-substrings)
-    - [Formatação de Strings](#formatação-de-strings)
+  - [Format](#format)
+    - [Format simples](#format-simples)
+    - [Format() com parâmetros nomeados](#format-com-parâmetros-nomeados)
+    - [Format() com parâmetros nomeados usando índices](#format-com-parâmetros-nomeados-usando-índices)
   - [🧮 Operações matemáticas](#-operações-matemáticas)
     - [Max](#max)
     - [Min](#min)
@@ -198,12 +201,15 @@ altura = float(input("Digite sua altura em metros: "))
 
 print(f"Nome: {nome}, Idade: {idade}, Altura: {altura} metros.")
 ```
+---
 
 ## 🎯 Interpolação
 
 ### Interpolação com espaçamento
 
 ```python
+
+
 msg ='''
 Salário bruto:       R${:>7.2f}
 (-)IR (5%):          R${:>7.2f}
@@ -216,6 +222,7 @@ Salário Liquido:     R${:>7.2f}
 
 print(msg.format(*result))
 ```
+
 
 ### Interpolação com espaçamento controlado
 
@@ -414,7 +421,34 @@ contém_olá = "Olá" in texto
 print(contém_olá)  # Saída: True
 ```
 
-### Formatação de Strings
+## Format
+
+### Format simples
+
+```python
+notas = [8, 9, 10] 
+
+media_nota = sum(notas) / len(notas)
+
+msg = []
+
+if media_nota >= 7:        
+    msg.append("Aprovado")
+    if media_nota == 10:
+        msg.append(" com Distinção.")
+else:
+    msg.append("Reprovado")
+
+# Concatena a mensagem final
+txt = ''.join(msg)
+
+print('O aluno foi {}, com média {:.2f}.'.format(txt, media_nota))
+
+```
+
+### Format() com parâmetros nomeados
+
+
 ```python
 # Usando f-strings para formatação
 nome = "João"
@@ -426,6 +460,41 @@ print(frase)  # Saída: Meu nome é João e eu tenho 30 anos.
 frase_format = "Meu nome é {} e eu tenho {} anos.".format(nome, idade)
 print(frase_format)  # Saída: Meu nome é João e eu tenho 30 anos.
 ```
+
+### Format() com parâmetros nomeados usando índices
+
+```python 
+def calc_sal(sal_bruto):
+
+    if sal_bruto > 900:
+        if sal_bruto < 1500:
+            aliq_aplicada = ALIQ_PERC_5
+        elif sal_bruto < 2500:
+           aliq_aplicada = ALIQ_PERC_10
+        else:
+          aliq_aplicada = ALIQ_PERC_20
+    else:
+        aliq_aplicada = ISENTO
+
+    return sal_bruto, sal_liquido, tot_desc, calc_imposto, calc_inss, calc_sind, calc_fgts
+  
+sal_bruto = 900         
+result = calc_sal(sal_bruto)
+
+# Conte o return para compreender o parâmetro nomeado com índice
+msg ='''
+Salário bruto:       R${0:>7.2f}
+(-)IR (5%):          R${3:>7.2f}
+(-)INSS (10%):       R${4:>7.2f}
+(-)Sindicato:        R${5:>7.2f}
+FGTS (11%):          R${6:>7.2f}
+Total de descontos:  R${2:>7.2f}
+Salário Liquido:     R${1:>7.2f}
+''' 
+
+print(msg.format(*result))
+```
+
 ---
 
 ## 🧮 Operações matemáticas

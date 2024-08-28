@@ -27,4 +27,3 @@ caneta.cor = 'Rosa'
 
 caneta.cor
 
-
