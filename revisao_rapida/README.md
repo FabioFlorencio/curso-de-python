@@ -360,7 +360,7 @@ print(tamanho)
 
 ### Acessar Caracteres
 ```python
-# Em python as strings iteráveis ou seja é possível acessar uma string letra por letra  
+# Em python as strings são iteráveis, ou seja, é possível acessar uma string letra por letra  
 #     Fatiamento de strings | pega uma parte da string
 #     012345678
 #    -987654321 -> Pode usar números negativos
