@@ -1,3 +1,6 @@
+
+![python](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F2b282dW55eHh3Y3NmdWNmZGxqNG84NWVkdWk5MXBsa2ppZHhnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
+
 # 🐍 Estudo de Python 🚀
 
 Bem-vindo ao repositório de estudo de Python!
